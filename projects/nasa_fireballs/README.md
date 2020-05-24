@@ -13,8 +13,6 @@ The data is open source data which was collected by NASA and distributed by data
   <img src="./Workbook/workflow.jpg" alt="fireballs workflow"/>
 </p>
 
-![Workflow](./Workbook/workflow.jpg)
-
 #### Data visualization overview:
 
 - The map will tell viewers how those fireball events located all over the world. Meanwhile, there are year of peak brightness and velocity	information for each event included in the map.
@@ -26,4 +24,6 @@ A Tableau Dashboard using public datasets is shown as below. You can find each T
 
 #### Dashboard:
 
-![Dashboard](./nasa_fireballs.png)
+<p align="center">
+	<img src="./nasa_fireballs.png" alt="fireballs_dashboard">
+</p>
