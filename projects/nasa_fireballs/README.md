@@ -2,7 +2,7 @@
 
 #### Data description:
 
-- According to NASA, the Geostationary Lightning Mapper (GLM) instruments on GOES weather satellites was able to detect fireballs and bolides. The data was about the date and time of each reported fireball event.
+According to NASA, the Geostationary Lightning Mapper (GLM) instruments on GOES weather satellites was able to detect fireballs and bolides. The data was about the date and time of each reported fireball event.
 
 #### Data source: [NASA JPL Center for Near Earth Object Studies](https://cneos.jpl.nasa.gov/fireballs/)
 
@@ -13,7 +13,7 @@
 
 #### About this data viz:
 
-- A Tableau Dashboard using public datasets below. You can find each Tableau Workbook that I used within the "Workbook" directory in this dirctory. Feel free to check out charts/map of the dashboards below, and download any workbook that interests you. 
+A Tableau Dashboard using public datasets is shown as below. You can find each Tableau Workbook that I used within the "Workbook" directory in this dirctory. Feel free to check out charts/map of the dashboards below, and download any workbook that interests you. 
 
 #### Dashboard:
 
