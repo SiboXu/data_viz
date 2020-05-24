@@ -9,6 +9,10 @@ According to NASA, the Geostationary Lightning Mapper (GLM) instruments on GOES 
 #### Data workflow:
 The data is open source data which was collected by NASA and distributed by data.world. This project is using Tableau as the data visualization tool calling data from data.world API. You can find the workflow for this project below.
 
+<p align="center">
+  <img src="./Workbook/workflow.jpg" alt="fireballs workflow"/>
+</p>
+
 ![Workflow](./Workbook/workflow.jpg)
 
 #### Data visualization overview:
