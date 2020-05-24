@@ -6,6 +6,11 @@ According to NASA, the Geostationary Lightning Mapper (GLM) instruments on GOES 
 
 #### Data source: [NASA JPL Center for Near Earth Object Studies](https://cneos.jpl.nasa.gov/fireballs/)
 
+#### Data workflow:
+The data is open source data which was collected by NASA and distributed by data.world. This project is using Tableau as the data visualization tool calling data from data.world API. You can find the workflow for this project below.
+
+![Workflow](./Workbook/workflow.jpg)
+
 #### Data visualization overview:
 
 - The map will tell viewers how those fireball events located all over the world. Meanwhile, there are year of peak brightness and velocity	information for each event included in the map.
