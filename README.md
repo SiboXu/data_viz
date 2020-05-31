@@ -3,5 +3,5 @@ In this repo, you will find some insightful data visualization projects/dashboar
 
 ### Project list:
 
-[NASA Fireballs](./projects/nasa_fireballs)
-[Rooftop Drinking Water Tanks in NYC](./projects/rooftop_water)
+- [NASA Fireballs](./projects/nasa_fireballs)
+- [Rooftop Drinking Water Tanks in NYC](./projects/rooftop_water)
