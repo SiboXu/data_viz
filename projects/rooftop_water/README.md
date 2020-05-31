@@ -13,7 +13,7 @@ The data is open source data which was collected by the NYC Health Department an
 	<img src="./workbook/dataflow.png" alt="rooftop_water_dataflow">
 </p>
 
-### Data insights:
+#### Data insights:
 - The majority of drinking water tanks are located in population-dense areas where they also have a large amount of foodservice provided to the neighborhood. Some typical places such as 33rd St., WTC, and communities around Central Park.
 - The quality of the drinking water is in good condition according to the inspection results, in which only 2 tanks are not meeting the standards. Less than 0.04% of tanks show the presence of E. coli, which can cause serious food poisoning in their hosts. However, there are a large number of tanks(roughly 10,000 inspections) don't receive an inspection result, which the reason for this situation is unknown. This could be a data issue from the source or an unspecified methodology of the data being collected and gathered.
 - There are around 4,500 tanks that should have been certified for each year from 2014 to 2018. We can see that certifying numbers match the expectation for 2015, 2016, and 2017, but not for 2014 and 2018.
