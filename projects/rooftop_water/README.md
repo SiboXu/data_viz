@@ -5,7 +5,7 @@
 NYC Health Code requires that building drinking water storage tanks be inspected annually and that the results of these inspections be reported to the Health Department (NYC DOHMH). To report specific inspection findings related to public safety and sanitary conditions, owners or their representatives fill out a questionnaire provided by DOHMH. This dataset is the non-administrative subset of owner-reported information. Reported data have not been verified by a City Agency.
 
 #### Data source: 
-[NYC OpenData](https://data.cityofnewyork.us/d/gjm4-k24g) (This data is updated periodically.)
+[NYC OpenData](https://data.cityofnewyork.us/d/gjm4-k24g) (this data is updated periodically)
 
 #### Data workflow:
 The data is open source data which was collected by the NYC Health Department and distributed by data.world. This project is using Tableau as the data visualization tool calling data from data.world API. You can find the dataflow for this project below.
