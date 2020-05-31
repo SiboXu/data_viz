@@ -25,5 +25,5 @@ A Tableau Dashboard using public datasets is shown as below. You can find each T
 #### Dashboard:
 
 <p align="center">
-	<img src="./nasa_fireballs.png" alt="fireballs_dashboard">
+	<img src="./Workbook/nasa_fireballs.png" alt="fireballs_dashboard">
 </p>
