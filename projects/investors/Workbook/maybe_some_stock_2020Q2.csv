@@ -1,0 +1,1270 @@
+,Stock,Sector,Buy_num,Buy_total,Sell_num,Sell_total,Ticker
+0,Glacier Bancorp (GBCI),Financials,3,"$227,153",0,$0,GBCI
+1,ServiceNow Inc. (NOW),Technology,0,$0,96,"$130,667,363",NOW
+2,Swatch Group AG-D (UHR-D),Consumer Discretionary,0,$0,0,$0,UHR-D
+3,Eldorado Resorts Inc. (ERI),Consumer Cyclical,0,$0,8,"$28,679,281",ERI
+4,Carter Bank & Trust (CARE),Financials,0,$0,0,$0,CARE
+5,Wyndham Hotels & Resorts Inc. (WH),Consumer Cyclical,2,"$639,770",0,$0,WH
+6,Micron Technology Inc. (MU),Information Technology,0,$0,2,"$314,235",MU
+7,ViewRay Inc. (VRAY),Health Care,0,$0,0,$0,VRAY
+8,Celanese Corp. (CE),Materials,0,$0,0,$0,CE
+9,Oshkosh Corp. (OSK),Industrials,0,$0,0,$0,OSK
+10,S&W Seed Co. (SANW),Consumer Goods,17,"$477,389",0,$0,SANW
+11,Energy Transfer LP (ET),Energy,38,"$17,840,170",1,"$797,581",ET
+12,ACI Worldwide Inc. (ACIW),Technology,1,"$748,495",0,$0,ACIW
+13,Pacific Drilling S.A. (PACD),Materials,1,"$45,982",4,"$987,560",PACD
+14,Concho Resources Inc. (CXO),Materials,0,$0,2,"$1,202,283",CXO
+15,Resolute Forest Products (RFP),Consumer Goods,0,$0,0,$0,RFP
+16,FSB Bancorp Inc. (FSBC),Financials,0,$0,0,$0,FSBC
+17,Big Lots Inc. (BIG),Consumer Discretionary,0,$0,4,"$76,447",BIG
+18,Quotient Technology Inc. (QUOT),Technology,2,"$119,700",5,"$252,849",QUOT
+19,Townsquare Media Inc. (TSQ),Services,0,$0,0,$0,TSQ
+20,DuPont de Nemours Inc. (DD),Materials,0,$0,0,$0,DD
+21,Ferrari NV (RACE),Consumer Goods,0,$0,0,$0,RACE
+22,Coty Inc. (COTY),Consumer Goods,0,$0,0,$0,COTY
+23,Banco Bradesco (BBD),Financials,0,$0,0,$0,BBD
+24,Lamar Advertising Co. (LAMR),Services,1,"$990,590",0,$0,LAMR
+25,Playa Hotels & Resorts N.V. (PLYA),Consumer Cyclical,0,$0,8,"$77,139",PLYA
+26,Sanderson Farms (SAFM),Consumer Staples,0,$0,2,"$286,646",SAFM
+27,Swire Pacific Ltd (0019.HK),Industrials,0,$0,0,$0,0019.HK
+28,Quest Diagnostics (DGX),Health Care,0,$0,16,"$28,609,431",DGX
+29,Integra LifeSciences Holdings (IART),Health Care,0,$0,8,"$9,047,179",IART
+30,Eurofins Scientific SE (ERFSF),Health Care,0,$0,0,$0,ERFSF
+31,Federal Signal (FSS),Industrials,2,"$114,542",3,"$307,876",FSS
+32,Exela Technologies Inc. (XELT),Technology,0,$0,0,$0,XELT
+33,Colfax Corp. (CFX),Industrial Goods,1,"$149,109",1,"$340,622",CFX
+34,Flowserve Corp. (FLS),Industrials,1,"$15,190",0,$0,FLS
+35,U.S. Well Services Inc. WTS (USWS.WS),Industrials,0,$0,0,$0,USWS.WS
+36,National Oilwell Varco Inc. (NOV),Energy,4,"$171,780",0,$0,NOV
+37,Ritchie Bros. Auctioneers Inc. (RBA),Services,0,$0,16,"$7,006,867",RBA
+38,Akebia Therapeutics Inc. (AKBA),Health Care,0,$0,1,"$74,413",AKBA
+39,Nutrien Ltd. (NTR),Materials,0,$0,0,$0,NTR
+40,Super Micro Computer Inc. (SMCI),Technology,0,$0,6,"$603,441",SMCI
+41,Hostess Brands Inc. WTS (TWNK.WS),Financials,0,$0,0,$0,TWNK.WS
+42,Becton Dickinson (BDX),Health Care,0,$0,4,"$1,483,758",BDX
+43,Signature Bank (SBNY),Financials,0,$0,0,$0,SBNY
+44,Yamaha Motor Co. Ltd. (YAMHF),Consumer Cyclical,0,$0,0,$0,YAMHF
+45,York Traditions Bank (YRKB),Financials,0,$0,0,$0,YRKB
+46,Thermo Fisher Scientific (TMO),Health Care,0,$0,32,"$52,772,833",TMO
+47,TechnipFMC plc (FTI),Energy,3,"$160,350",0,$0,FTI
+48,Sea Ltd (SE),Technology,0,$0,0,$0,SE
+49,Kennedy Wilson Holdings Inc. (KW),Financials,0,$0,0,$0,KW
+50,Kulicke & Soffa Ind. (KLIC),Information Technology,1,"$98,275",0,$0,KLIC
+51,Luckin Coffee Inc. (LK),Consumer Cyclical,0,$0,0,$0,LK
+52,Ecolab Inc. (ECL),Materials,0,$0,25,"$25,957,646",ECL
+53,Science Applications International Corp. (SAIC),Technology,3,"$1,117,294",0,$0,SAIC
+54,Owl Rock Capital Corp. (ORCC),Financials,2,"$1,017,319",13,"$12,953,509",ORCC
+55,Canadian Natl Railway Co. (CNI),Services,0,$0,0,$0,CNI
+56,Shanghai Mechanical & Elect. Ind. (900925.SS),Industrials,0,$0,0,$0,900925.SS
+57,Equitable Holdings Inc. (EQH),Financials,15,"$1,140,888",0,$0,EQH
+58,Wabash National (WNC),Industrials,7,"$455,050",0,$0,WNC
+59,SoftBank Group Corp. (SFTBF),Services,0,$0,0,$0,SFTBF
+60,Nihon Parkerizing Co. (4095.T),Materials,0,$0,0,$0,4095.T
+61,Tidewater Inc WTS (TDW.WS),Energy,0,$0,0,$0,TDW.WS
+62,Eaton Vance Senior Floating-Rate Trust (EFR),Financials,0,$0,6,"$11,760,047",EFR
+63,Facebook Inc. (FB),Technology,0,$0,22,"$15,254,640",FB
+64,Dril-Quip Inc. (DRQ),Energy,0,$0,0,$0,DRQ
+65,Nabors Industries Ltd. (NBR),Energy,0,$0,0,$0,NBR
+66,Fairfax Financial Holdings Ltd. (FFH),Financials,0,$0,0,$0,FFH
+67,Stericycle Inc. (SRCL),Industrials,0,$0,0,$0,SRCL
+68,First Industrial Realty Trust Inc. (FR),Financials,0,$0,0,$0,FR
+69,Cummins Inc. (CMI),Industrials,0,$0,0,$0,CMI
+70,Zurich Insurance Group AG (ZFSVF),Financials,0,$0,0,$0,ZFSVF
+71,Nektar Therapeutics (NKTR),Health Care,0,$0,10,"$825,141",NKTR
+72,Automatic Data Processing Inc. (ADP),Information Technology,0,$0,1,"$35,058",ADP
+73,Royal Dutch Shell PLC (RDS.A),Materials,0,$0,0,$0,RDS.A
+74,Blue Bird Corp. (BLBD),Consumer Goods,0,$0,3,"$402,699",BLBD
+75,Armstrong World Industries Inc. (AWI),Industrial Goods,0,$0,0,$0,AWI
+76,Viasat Inc. (VSAT),Information Technology,0,$0,53,"$14,817,025",VSAT
+77,Synaptics Inc. (SYNA),Information Technology,0,$0,16,"$3,478,128",SYNA
+78,Petroleo Brasileiro (PBR),Materials,0,$0,0,$0,PBR
+79,Kion Group AG (KNNGF),Industrials,0,$0,0,$0,KNNGF
+80,CHEGG Inc. (CHGG),Services,0,$0,12,"$16,517,168",CHGG
+81,UBS AG (UBS),Financials,0,$0,0,$0,UBS
+82,Sensata Technologies Holding (ST),Consumer Goods,1,"$522,900",0,$0,ST
+83,FTI Consulting Inc. (FCN),Industrials,0,$0,4,"$3,181,915",FCN
+84,Crew Energy Inc. (CWEGF),Energy,0,$0,0,$0,CWEGF
+85,Compagnie Financiere Richemont SA (CFRHF),Consumer Discretionary,0,$0,0,$0,CFRHF
+86,Estee Lauder Cos. (EL),Consumer Staples,0,$0,12,"$12,932,381",EL
+87,Dow Inc. (DOW),Materials,4,"$1,194,897",0,$0,DOW
+88,CNOOC Ltd. (CEO),Materials,0,$0,0,$0,CEO
+89,Aon Corp. (AON),Financials,2,"$13,650,000",4,"$761,099",AON
+90,Adtalem Global Education (ATGE),Consumer Discretionary,0,$0,0,$0,ATGE
+91,China Mobile Ltd. (CHL),Technology,0,$0,0,$0,CHL
+92,Verizon Communications (VZ),Telecommunications Services,0,$0,2,"$613,429",VZ
+93,Principal Financial Group (PFG),Financials,2,"$999,823",0,$0,PFG
+94,Nuveen Floating Rate Income Fund (JFR),Financials,0,$0,0,$0,JFR
+95,Suncor Energy Inc. (SU),Materials,0,$0,0,$0,SU
+96,Avis Budget Group Inc. (CAR),Industrials,5,"$10,300,132",0,$0,CAR
+97,Intercontinental Exchange Inc. (ICE),Financials,0,$0,21,"$34,391,538",ICE
+98,First Bank (FRBA),Financials,0,$0,0,$0,FRBA
+99,Wheaton Precious Metals Corp. (WPM),Materials,0,$0,0,$0,WPM
+100,OneMain Holdings (OMF),Financials,6,"$1,172,017",0,$0,OMF
+101,Despegar.com Corp. (DESP),Consumer Cyclical,0,$0,0,$0,DESP
+102,Uber Technologies Inc. (UBER),Technology,0,$0,45,"$79,988,139",UBER
+103,Darling Ingredients Inc. (DAR),Industrial Goods,5,"$197,600",0,$0,DAR
+104,Corning Inc. (GLW),Information Technology,0,$0,1,"$42,038",GLW
+105,Invesco Senior Loan ETF (BKLN),NA,0,$0,0,$0,BKLN
+106,Telecom Argentina S.A. (TEO),Technology,0,$0,0,$0,TEO
+107,ZIOPHARM Oncology (ZIOP),Health Care,0,$0,0,$0,ZIOP
+108,Eaton Vance Floating-Rate Inc Trust (EFT),Financials,0,$0,0,$0,EFT
+109,Aegon NV (AEG),Financials,0,$0,0,$0,AEG
+110,Microchip Technology (MCHP),Information Technology,0,$0,8,"$3,196,373",MCHP
+111,Dine Brands Global Inc. (DIN),Services,1,"$54,392",0,$0,DIN
+112,LT Group Inc. (LTG-PS),Consumer Goods,0,$0,0,$0,LTG-PS
+113,Autoliv Inc. (ALV),Consumer Goods,0,$0,1,"$45,932",ALV
+114,LafargeHolcim Ltd. (HCMLF),Industrial Goods,0,$0,0,$0,HCMLF
+115,Hilton Worldwide Holdings (HLT),Consumer Discretionary,0,$0,0,$0,HLT
+116,Generac Holdings Inc. (GNRC),Industrial Goods,0,$0,14,"$5,348,203",GNRC
+117,Zumiez Inc. (ZUMZ),Services,0,$0,0,$0,ZUMZ
+118,GEA Group AG (G1A.DE),Industrials,0,$0,0,$0,G1A.DE
+119,General Dynamics (GD),Industrials,0,$0,0,$0,GD
+120,ABM Industries (ABM),Industrials,0,$0,1,"$105,210",ABM
+121,ANAPLAN Inc. (PLAN),Technology,0,$0,9,"$12,254,437",PLAN
+122,AmerisourceBergen Corp. (ABC),Health Care,2,"$201,554",12,"$8,432,699",ABC
+123,Healthcare Services Group (HCSG),Industrials,0,$0,0,$0,HCSG
+124,"e.l.f. Beauty, Inc. (ELF)",Consumer Goods,0,$0,8,"$2,946,390",ELF
+125,Tyson Foods (TSN),Consumer Staples,0,$0,1,"$34,872",TSN
+126,Asbury Automotive Group Inc. (ABG),Services,2,"$5,273,619",6,"$1,284,668",ABG
+127,MetLife Inc. (MET),Financials,0,$0,0,$0,MET
+128,Azul S.A.  (AZUL),Services,0,$0,0,$0,AZUL
+129,Lands End Inc. (LE),Services,2,"$39,882",0,$0,LE
+130,Mettler-Toledo International Inc. (MTD),Health Care,0,$0,75,"$52,474,144",MTD
+131,IPG Photonics Corp. (IPGP),Technology,0,$0,44,"$16,833,209",IPGP
+132,Genuine Parts (GPC),Consumer Discretionary,1,"$276,150",0,$0,GPC
+133,Legg Mason (LM),Financials,0,$0,12,"$397,126,741",LM
+134,CBRE Group (CBRE),Financials,2,"$100,691",1,"$3,151,565",CBRE
+135,Henry Schein Inc. (HSIC),Health Care,0,$0,1,"$254,382",HSIC
+136,Square Inc. (SQ),Technology,0,$0,17,"$5,081,390",SQ
+137,Henkel KGAA (HENKY),Consumer Goods,0,$0,0,$0,HENKY
+138,Strategic Education Inc. (STRA),Consumer Discretionary,0,$0,16,"$2,157,380",STRA
+139,FLIR Systems (FLIR),Information Technology,0,$0,1,"$1,041,144",FLIR
+140,Loral Space & Communications (LORL),Technology,0,$0,0,$0,LORL
+141,Safran SA (SAFRY),Industrial Goods,0,$0,0,$0,SAFRY
+142,Carnival Corp. (CCL),Consumer Discretionary,1,"$10,000,000",0,$0,CCL
+143,Diageo plc (DEO),Consumer Goods,0,$0,0,$0,DEO
+144,Goosehead Insurance Inc. (GSHD),Financials,0,$0,212,"$110,590,816",GSHD
+145,General Mills (GIS),Consumer Staples,0,$0,11,"$10,837,738",GIS
+146,Chokwang Paint Co. Ltd. (004910.KS),Materials,0,$0,0,$0,004910.KS
+147,Medifast Inc. (MED),Services,11,"$94,889",6,"$1,010,804",MED
+148,Sirius International Insurance Grp (SG),Financials,0,$0,0,$0,SG
+149,iShares U.S. Real Estate ETF (IYR),Real Estate,0,$0,0,$0,IYR
+150,Kadmon Holdings (KDMN),Health Care,4,"$197,063",0,$0,KDMN
+151,MSC Industrial Direct (MSM),Industrials,0,$0,1,"$221,820",MSM
+152,McKesson Corp. (MCK),Health Care,0,$0,21,"$3,474,914",MCK
+153,Amphenol Corp. (APH),Information Technology,0,$0,9,"$23,941,791",APH
+154,Vericity Inc. (VERY),Financials,0,$0,0,$0,VERY
+155,Naspers Ltd (NPSNY),Technology,0,$0,0,$0,NPSNY
+156,Allegiant Travel Company (ALGT),Services,2,"$139,312",7,"$20,996,332",ALGT
+157,T. Rowe Price Group (TROW),Financials,0,$0,5,"$5,095,492",TROW
+158,Granite Point Mortgage Trust Inc. (GPMT),Real Estate,0,$0,0,$0,GPMT
+159,Constellation Brands (STZ),Consumer Staples,0,$0,0,$0,STZ
+160,Marsh & McLennan (MMC),Financials,0,$0,5,"$32,310,644",MMC
+161,Charter Communications (CHTR),Services,0,$0,7,"$65,456,896",CHTR
+162,LICT Corp. (LICT),Services,0,$0,0,$0,LICT
+163,GameStop Corp. (GME),Consumer Discretionary,2,"$135,410",1,"$184,325",GME
+164,Mid-Southern Bancorp (MSVB),Financials,1,"$44,573",0,$0,MSVB
+165,Micro Focus International plc (MFGP),Technology,0,$0,0,$0,MFGP
+166,AGCO Corp. (AGCO),Industrials,0,$0,1,"$124,399",AGCO
+167,Prosperity Bancshares Inc. (PB),Financials,16,"$4,535,788",0,$0,PB
+168,Sportsman's Warehouse Hldgs (SPWH),Consumer Goods,0,$0,2,"$149,140",SPWH
+169,Newell Brands Inc. (NWL),Consumer Discretionary,10,"$41,398,798",0,$0,NWL
+170,Alphabet Inc. (GOOGL),Technology,0,$0,0,$0,GOOGL
+171,Arcos Dorados Holdings Inc. (ARCO),Services,0,$0,0,$0,ARCO
+172,Loews Corp. (L),Financials,0,$0,5,"$1,800",L
+173,Infrastructure and Energy Alt. Inc. (IEA),Industrials,9,"$75,427",0,$0,IEA
+174,Workiva Inc. (WK),Technology,0,$0,3,"$460,507",WK
+175,Zedge Inc. (ZDGE),Technology,3,"$34,943",0,$0,ZDGE
+176,Martin Marietta (MLM),Materials,2,"$347,620",1,"$1,180,272",MLM
+177,Momo Inc. (MOMO),Technology,0,$0,0,$0,MOMO
+178,"THL Credit, Inc. (TCRD)",Financials,8,"$360,325",1,"$90,882",TCRD
+179,FFBW Inc. (FFBW),Financials,7,"$32,344",0,$0,FFBW
+180,Assertio Therapeutics Inc. (ASRT),Health Care,0,$0,1,"$12,531",ASRT
+181,Zillow Group Inc. (Z),Financials,0,$0,39,"$17,022,726",Z
+182,NetEase.com Inc. (NTES),Technology,0,$0,0,$0,NTES
+183,Macerich Co. (MAC),Financials,16,"$1,498,101",0,$0,MAC
+184,Alaska Air Group (ALK),Industrials,2,"$29,878",2,"$65,235",ALK
+185,Carbon Natural Gas Co. (CRBO),Materials,0,$0,0,$0,CRBO
+186,Allison Transmission Holdings (ALSN),Industrial Goods,1,"$95,625",0,$0,ALSN
+187,CVR Energy Inc. (CVI),Materials,0,$0,0,$0,CVI
+188,Veritiv Corp. (VRTV),Consumer Goods,4,"$271,922",0,$0,VRTV
+189,JPMorgan Chase & Co. (JPM),Financials,1,"$6,598,957",1,"$1,187,081",JPM
+190,Devon Energy Corp. (DVN),Energy,2,"$230,500",1,"$17,205",DVN
+191,Under Armour Inc. (UAA),Consumer Goods,10,"$43,184",6,"$24,528",UAA
+192,Lifetime Brands Inc. (LCUT),Consumer Goods,0,$0,0,$0,LCUT
+193,Swedish Match AB (SWMAF),Consumer Goods,0,$0,0,$0,SWMAF
+194,Boeing Co. (BA),Industrials,0,$0,0,$0,BA
+195,Advanced Drainage Systems (WMS),Consumer Goods,0,$0,8,"$12,302,457",WMS
+196,Amplify Energy Corp. (AMPY),Energy,0,$0,1,"$46,561",AMPY
+197,Unisys Corp. (UIS),Information Technology,0,$0,3,"$130,481",UIS
+198,Henry (Jack) & Assoc. (JKHY),Information Technology,1,"$78,500",3,"$1,793,687",JKHY
+199,eBay Inc. (EBAY),Information Technology,0,$0,10,"$7,351,348",EBAY
+200,CommScope Holding Co. (COMM),Information Technology,4,"$588,243",0,$0,COMM
+201,FreightCar America Inc. (RAIL),Services,0,$0,0,$0,RAIL
+202,Take-Two Interactive Software (TTWO),Information Technology,0,$0,16,"$58,432,821",TTWO
+203,Vista Outdoor Inc. (VSTO),Consumer Goods,1,"$248,675",0,$0,VSTO
+204,Precigen Inc. (PGEN),Health Care,3,"$2,241,625",8,"$995,722",PGEN
+205,Fox Corporation (FOXA),Services,0,$0,0,$0,FOXA
+206,Omnicom Group (OMC),Consumer Discretionary,0,$0,0,$0,OMC
+207,Baidu Inc. (BIDU),Technology,0,$0,0,$0,BIDU
+208,Herbalife Nutrition Ltd. (HLF),Health Care,0,$0,1,"$976,500",HLF
+209,Liberty TripAdvisor Hldgs (LTRPA),Consumer Goods,0,$0,0,$0,LTRPA
+210,TriNet Group (TNET),Services,20,"$35,835,315",33,"$3,813,719",TNET
+211,UMB Financial Corp. (UMBF),Financials,2,"$60,025",0,$0,UMBF
+212,Teekay LNG Partners LP. (TGP),Services,0,$0,0,$0,TGP
+213,GTY Technology Holdings Inc. (GTYH),Industrials,0,$0,0,$0,GTYH
+214,Spirit AeroSystems Holdings Inc. (SPR),Industrial Goods,0,$0,0,$0,SPR
+215,Unilever PLC (UL),Consumer Goods,0,$0,0,$0,UL
+216,Univar Solutions Inc. (UNVR),Materials,4,"$3,726,051",0,$0,UNVR
+217,AT&T Inc. (T),Telecommunications Services,2,"$1,256,045",0,$0,T
+218,SeaWorld Entertainment (SEAS),Services,0,$0,2,"$104,528",SEAS
+219,Thor Industries (THO),Consumer Discretionary,1,"$73,620",0,$0,THO
+220,San Juan Basin Royalty Trust (SJT),Financials,0,$0,0,$0,SJT
+221,CIGNA Corp. (CI),Health Care,0,$0,13,"$21,322,184",CI
+222,Atara Biotherapeutics Inc. (ATRA),Health Care,0,$0,6,"$116,953",ATRA
+223,Berkshire Hathaway CL A (BRK.A),Financials,6,"$2,088,022",0,$0,BRK.A
+224,Alliance Data Systems (ADS),Information Technology,10,"$1,172,603",0,$0,ADS
+225,Replay Acquisition Corp. Unit (RPLA/U),Industrials,0,$0,0,$0,RPLA/U
+226,EOG Resources (EOG),Energy,0,$0,0,$0,EOG
+227,CenturyLink Inc. (CTL),Technology,5,"$701,128",0,$0,CTL
+228,Lennar Corp. (LEN),Consumer Discretionary,0,$0,0,$0,LEN
+229,News Corp. (NWSA),Consumer Discretionary,0,$0,0,$0,NWSA
+230,Fiesta Restaurant Group (FRGI),Services,0,$0,2,"$1,621",FRGI
+231,Chewy Inc. (CHWY),Consumer Cyclical,0,$0,12,"$7,998,278",CHWY
+232,Arbor Realty Trust Inc. (ABR),Financials,9,"$273,901",0,$0,ABR
+233,Diebold Inc. (DBD),Information Technology,20,"$605,689",0,$0,DBD
+234,Theravance Biopharma Inc. (TBPH),Health Care,0,$0,0,$0,TBPH
+235,Warrior Met Coal LLC (HCC),Financials,0,$0,0,$0,HCC
+236,Xerox Holdings Corp. (XRX),Information Technology,0,$0,0,$0,XRX
+237,Merck & Co. (MRK),Health Care,0,$0,2,"$757,404",MRK
+238,Varian Medical Systems (VAR),Health Care,0,$0,5,"$4,482,347",VAR
+239,JetBlue Airways Corp. (JBLU),Industrials,1,"$4,185",4,"$40,161",JBLU
+240,Alibaba Group Holdings (BABA),Technology,0,$0,0,$0,BABA
+241,Nestle (NSRGY),Consumer Staples,0,$0,0,$0,NSRGY
+242,Cemex (CX),Industrial Goods,0,$0,0,$0,CX
+243,Fidelity National Information Services (FIS),Information Technology,0,$0,4,"$2,381,629",FIS
+244,Truist Financial Corp. (TFC),Financials,2,"$581,036",2,"$472,431",TFC
+245,PDL Community Bancorp (PDLB),Financials,0,$0,0,$0,PDLB
+246,Schlumberger Ltd. (SLB),Energy,3,"$171,740",3,"$1,506,201",SLB
+247,PotlatchDeltic Corp. (PCH),Financials,1,"$214,500",0,$0,PCH
+248,Fiat Chrysler Automobiles NV (FCAU),Consumer Goods,0,$0,0,$0,FCAU
+249,Heron Therapeutics Inc. (HRTX),Health Care,0,$0,1,"$16,176",HRTX
+250,Knowles Corp. (KN),Technology,0,$0,0,$0,KN
+251,Jernigan Capital Inc. (JCAP),Financials,6,"$62,695",6,"$1,085,667",JCAP
+252,Kennametal Inc. (KMT),Industrials,0,$0,3,"$451,080",KMT
+253,Bonanza Creek Energy (BCEI),Materials,0,$0,0,$0,BCEI
+254,ITT Inc. (ITT),Industrials,0,$0,0,$0,ITT
+255,AerCap Holdings N.V. (AER),Services,0,$0,0,$0,AER
+256,Hanger Inc. (HNGR),Health Care,0,$0,0,$0,HNGR
+257,Liberty Sirius XM Series A (LSXMA),Services,0,$0,2,"$50,243",LSXMA
+258,Walt Disney Co. (DIS),Consumer Discretionary,0,$0,0,$0,DIS
+259,Lincoln Electric (LECO),Industrials,0,$0,0,$0,LECO
+260,Fifth Third Bancorp (FITB),Financials,2,"$1,094,519",0,$0,FITB
+261,Medallia Inc. (MDLA),Technology,0,$0,16,"$19,225,380",MDLA
+262,Illumina Inc. (ILMN),Health Care,0,$0,44,"$14,272,462",ILMN
+263,Prudential Bancorp Inc. (PBIP),Financials,11,"$160,974",0,$0,PBIP
+264,Immunomedics Inc. (IMMU),Health Care,1,"$49,875,000",0,$0,IMMU
+265,Liberty Braves Group A (BATRA),Services,2,"$82,210",0,$0,BATRA
+266,ICICI Bank Ltd. (IBN),Financials,0,$0,0,$0,IBN
+267,Goldman Sachs Group (GS),Financials,0,$0,0,$0,GS
+268,Rafael Holdings Inc. (RFL),Financials,0,$0,0,$0,RFL
+269,Comerica Inc. (CMA),Financials,0,$0,0,$0,CMA
+270,Discovery Communications Inc. (DISCA),Consumer Discretionary,0,$0,4,"$8,189,961",DISCA
+271,Masimo Corp. (MASI),Health Care,0,$0,38,"$163,441,981",MASI
+272,Cardinal Health Inc. (CAH),Health Care,0,$0,0,$0,CAH
+273,UniFirst Corp. (UNF),Consumer Discretionary,0,$0,1,"$122,170",UNF
+274,Evoqua Water Technologies Corp. (AQUA),Industrials,0,$0,2,"$339,593,400",AQUA
+275,Home Bancshares Inc. (HOMB),Financials,1,"$278,598",0,$0,HOMB
+276,Hertz Global Hldgs Inc. (HTZ),Services,3,"$84,832,977",10,"$39,939,932",HTZ
+277,McDonald's Corp. (MCD),Consumer Discretionary,0,$0,0,$0,MCD
+278,Atlas Corp. (ATCO),Financials,0,$0,0,$0,ATCO
+279,Watsco Inc. (WSO),Industrials,0,$0,0,$0,WSO
+280,Oracle Corp. (ORCL),Information Technology,2,"$1,424,162",10,"$122,394,575",ORCL
+281,Stitch Fix Inc. (SFIX),Services,11,"$35,434,526",20,"$8,726,780",SFIX
+282,Invesco Value Municipal Income Trust (IIM),Financials,0,$0,0,$0,IIM
+283,Braskem S.A. (BAK),Materials,0,$0,0,$0,BAK
+284,GAMCO Investors Inc. (GBL),Financials,0,$0,0,$0,GBL
+285,American Airlines Group Inc. (AAL),Services,0,$0,0,$0,AAL
+286,Coca-Cola FEMSA S A CV (KOF),Consumer Goods,0,$0,0,$0,KOF
+287,Baker Hughes Co. (BKR),Industrials,0,$0,0,$0,BKR
+288,Trilogy Metals Inc. (TMQ),Materials,3,"$19,150",0,$0,TMQ
+289,Trinity Industries (TRN),Industrials,0,$0,0,$0,TRN
+290,American Tower Corp. (AMT),Technology,0,$0,29,"$3,371,784",AMT
+291,Colliers International Group Inc. (CIGI),Real Estate,0,$0,1,"$12,086,847",CIGI
+292,Plains All American Pipeline (PAA),Materials,4,"$1,245,963",0,$0,PAA
+293,SCOR SE (SZCRF),Financials,0,$0,0,$0,SZCRF
+294,VEON Ltd. (VEON),Technology,0,$0,0,$0,VEON
+295,Costco Co. (COST),Consumer Staples,0,$0,7,"$5,547,674",COST
+296,Hanjaya Mandala Sampoerna (PHJMF),Consumer Goods,0,$0,0,$0,PHJMF
+297,PNC Financial Services (PNC),Financials,9,"$5,101,131",0,$0,PNC
+298,iRobot Corp. (IRBT),Technology,0,$0,6,"$2,752,775",IRBT
+299,Precision BioSciences Inc. (DTIL),Health Care,0,$0,0,$0,DTIL
+300,BAE Systems plc (BAESF),Industrials,0,$0,0,$0,BAESF
+301,Citrix Systems (CTXS),Information Technology,0,$0,25,"$11,903,248",CTXS
+302,NI Holdings Inc. (NODK),Financials,6,"$25,027",0,$0,NODK
+303,AES Corp. (AES),Utilities,14,"$6,376,405",0,$0,AES
+304,KT&G Corp. (033780.KS),Consumer Goods,0,$0,0,$0,033780.KS
+305,Kinder Morgan (KMI),Energy,2,"$7,853,648",0,$0,KMI
+306,McDermott International Inc. (MDR),Industrial Goods,0,$0,0,$0,MDR
+307,Genie Energy Ltd. (GNE),Materials,0,$0,0,$0,GNE
+308,Atlassian Corp. (TEAM),Technology,0,$0,0,$0,TEAM
+309,Flex Ltd. (FLEX),Technology,0,$0,0,$0,FLEX
+310,Covetrus Inc. (CVET),Health Care,0,$0,1,"$300,600",CVET
+311,Domo Inc. (DOMO),Technology,0,$0,0,$0,DOMO
+312,InterDigital Inc. (IDCC),Technology,0,$0,0,$0,IDCC
+313,"Vista Oil & Gas, S.A.B. de C.V. (VIST)",Energy,0,$0,0,$0,VIST
+314,VICI Properties Inc. (VICI),Financials,3,"$445,200",0,$0,VICI
+315,Twitter Inc. (TWTR),Technology,0,$0,9,"$2,383,764",TWTR
+316,Ardmore Shipping Corp. (ASC),Services,0,$0,0,$0,ASC
+317,PayPal Holdings Inc. (PYPL),Financials,0,$0,23,"$18,644,532",PYPL
+318,Peyto Exploration & Development Corp. (PEYUF),Energy,0,$0,0,$0,PEYUF
+319,Dorman Products (DORM),Consumer Goods,1,"$99,943",0,$0,DORM
+320,MVC Capital Inc. (MVC),Financials,0,$0,0,$0,MVC
+321,Argan Inc. (AGX),Industrial Goods,1,"$35,100",0,$0,AGX
+322,Advance Auto Parts (AAP),Consumer Discretionary,0,$0,0,$0,AAP
+323,Burlington Stores Inc. (BURL),Services,0,$0,10,"$1,074,304",BURL
+324,Emerson Electric (EMR),Industrials,1,"$257,346",0,$0,EMR
+325,NGL Energy Partners LP (NGL),Energy,1,"$75,000",0,$0,NGL
+326,SandRidge Energy Inc. (SD),Materials,0,$0,0,$0,SD
+327,HeidelbergCement AG (HLBZF),Materials,0,$0,0,$0,HLBZF
+328,Archer-Daniels-Midland (ADM),Consumer Staples,1,"$37,664",1,"$124,560",ADM
+329,Cedar Fair LP (FUN),Services,4,"$275,468",0,$0,FUN
+330,CyrusOne Inc. (CONE),Real Estate,0,$0,7,"$3,257,921",CONE
+331,LKQ Corp. (LKQ),Consumer Discretionary,0,$0,2,"$444,736",LKQ
+332,BP plc (BP),Materials,0,$0,0,$0,BP
+333,Anterix Inc. (ATEX),Technology,9,"$19,739,696",4,"$204,297",ATEX
+334,New York Times Cl. A (NYT),Consumer Discretionary,0,$0,0,$0,NYT
+335,CoStar Group Inc. (CSGP),Financials,0,$0,2,"$9,587,715",CSGP
+336,TransDigm Group Inc. (TDG),Industrial Goods,222,"$359,055,230",16,"$16,420,811",TDG
+337,Bank of New York Mellon Corp. (BK),Financials,0,$0,5,"$32,645,126",BK
+338,TransMedics Group Inc. (TMDX),Health Care,0,$0,6,"$266,725",TMDX
+339,Melco Resorts & Entertainment (MLCO),Services,0,$0,0,$0,MLCO
+340,Star Bulk Carriers Corp. (SBLK),Services,0,$0,0,$0,SBLK
+341,Hope Bancorp Inc. (HOPE),Financials,1,"$21,725",7,"$3,784,871",HOPE
+342,Verisign Inc. (VRSN),Information Technology,0,$0,4,"$4,951,429",VRSN
+343,Hiscox Ltd. (HCXLF),Financials,0,$0,0,$0,HCXLF
+344,XP Inc. (XP),Financials,0,$0,0,$0,XP
+345,State Street Corp. (STT),Financials,0,$0,2,"$344,504",STT
+346,Fitbit Inc. (FIT),Technology,0,$0,8,"$14,224,476",FIT
+347,Air Canada (ACDVF),Industrials,0,$0,0,$0,ACDVF
+348,Electronic Arts (EA),Information Technology,0,$0,55,"$35,469,560",EA
+349,Merit Medical Systems Inc. (MMSI),Health Care,0,$0,6,"$1,610,649",MMSI
+350,Two Harbors Investment Corp. (TWO),Financials,0,$0,0,$0,TWO
+351,Park Hotels & Resorts Inc. (PK),Financials,16,"$1,879,498",0,$0,PK
+352,Hawaiian Holdings Inc. (HA),Services,0,$0,0,$0,HA
+353,Rayonier Inc. (RYN),Financials,5,"$71,389",0,$0,RYN
+354,Grupo Televisa SA (TV),Services,0,$0,0,$0,TV
+355,Eagle Materials Inc. (EXP),Industrials,0,$0,0,$0,EXP
+356,Toro Co. (TTC),Industrials,0,$0,0,$0,TTC
+357,WESCO International Inc. (WCC),Services,0,$0,0,$0,WCC
+358,Whirlpool Corp. (WHR),Consumer Discretionary,2,"$107,000",0,$0,WHR
+359,CONSOL Coal Resources LP (CCR),Materials,0,$0,0,$0,CCR
+360,Pampa EnergÃ­a S.A. (PAM),Utilities,0,$0,0,$0,PAM
+361,SEACOR Holdings Inc. (CKH),Energy,7,"$329,817",1,"$148,362",CKH
+362,Accenture (ACN),Services,0,$0,25,"$4,169,485",ACN
+363,Alarm.Com Holdings (ALRM),Technology,0,$0,25,"$273,442,944",ALRM
+364,NeuBase Therapeutics Inc. (NBSE),Health Care,6,"$201,109",0,$0,NBSE
+365,RealReal Inc. (REAL),Consumer Cyclical,0,$0,22,"$26,474,436",REAL
+366,Constellation Software Inc. (CNSWF),Technology,0,$0,0,$0,CNSWF
+367,Heineken Holding NV (HKHHF),Consumer Goods,0,$0,0,$0,HKHHF
+368,Hub Group 'A' (HUBG),Industrials,0,$0,0,$0,HUBG
+369,CDW Corp. (CDW),Information Technology,0,$0,3,"$1,295,366",CDW
+370,Alerian MLP ETF (AMLP),Energy,0,$0,0,$0,AMLP
+371,Masco Corp. (MAS),Industrials,0,$0,3,"$2,155,036",MAS
+372,HEICO Corp. (HEI),Industrial Goods,0,$0,1,"$59,555",HEI
+373,Hostess Brands Inc. (TWNK),Financials,0,$0,2,"$6,587,145",TWNK
+374,Alamo Group Inc. (ALG),Industrial Goods,0,$0,3,"$187,568",ALG
+375,Michaels Companies Inc. (MIK),Services,0,$0,0,$0,MIK
+376,Amgen (AMGN),Health Care,0,$0,3,"$563,477",AMGN
+377,Fortune Brands Home & Security (FBHS),Consumer Goods,0,$0,1,"$120,350",FBHS
+378,Miller (Herman) (MLHR),Industrials,1,"$548,452",0,$0,MLHR
+379,Willis Towers Watson Public Ltd (WLTW),Financials,0,$0,0,$0,WLTW
+380,Clorox Co. (CLX),Consumer Staples,0,$0,8,"$19,455,539",CLX
+381,Emcor Group (EME),Industrials,1,"$58,520",0,$0,EME
+382,Lockheed Martin Corp. (LMT),Industrials,0,$0,0,$0,LMT
+383,Century Communities Inc. (CCS),Industrial Goods,0,$0,1,"$2,765,000",CCS
+384,Albireo Pharma Inc. (ALBO),Health Care,0,$0,4,"$36,268",ALBO
+385,Ocwen Financial Corp. (OCN),Financials,8,"$129,378",1,"$177,840",OCN
+386,Farfetch Ltd (FTCH),Services,0,$0,0,$0,FTCH
+387,PVH Corp. (PVH),Consumer Discretionary,0,$0,0,$0,PVH
+388,Eastman Chemical (EMN),Materials,0,$0,1,"$3,280,160",EMN
+389,Vail Resorts Inc. (MTN),Consumer Cyclical,0,$0,0,$0,MTN
+390,Jones Lang Lasalle Inc. (JLL),Financials,0,$0,0,$0,JLL
+391,Paychex Inc. (PAYX),Information Technology,1,"$99,974",0,$0,PAYX
+392,Gannett Co. (GCI),Consumer Discretionary,7,"$667,020",0,$0,GCI
+393,Essex Property Trust (ESS),Financials,0,$0,0,$0,ESS
+394,Crown Castle International Corp. (CCI),Technology,0,$0,2,"$3,390,979",CCI
+395,NVR Inc. (NVR),Consumer Discretionary,2,"$308,790",0,$0,NVR
+396,Valmont Industries (VMI),Industrials,2,"$40,642",0,$0,VMI
+397,Prestige Consumer Healthcare (PBH),Health Care,0,$0,1,"$1,183,720",PBH
+398,Cooper Companies (COO),Health Care,0,$0,0,$0,COO
+399,POSCO (PKX),Materials,0,$0,0,$0,PKX
+400,KKR & Co. L.P. (KKR),Financials,0,$0,1,"$699,404",KKR
+401,Crane Co. (CR),Industrials,2,"$79,609",0,$0,CR
+402,Steel Partners Holdings L.P. (SPLP),Industrial Goods,46,"$288,222",0,$0,SPLP
+403,PlayAGS Inc. (AGS),Consumer Cyclical,0,$0,0,$0,AGS
+404,Hyatt Hotels Corp. (H),Financials,0,$0,1,"$116,065",H
+405,Cie Financiere Richemont SA (CFRUY),Consumer Discretionary,0,$0,0,$0,CFRUY
+406,Raytheon Technologies Corp. (RTX),Industrials,0,$0,0,$0,RTX
+407,Oi SA (OIBR),Technology,0,$0,0,$0,OIBR
+408,Carters Inc. (CRI),Consumer Goods,0,$0,0,$0,CRI
+409,Tutor Perini Corp. (TPC),Industrial Goods,4,"$2,010,491",0,$0,TPC
+410,Flowers Foods (FLO),Consumer Staples,0,$0,2,"$1,891,569",FLO
+411,LogMeIn Inc. (LOGM),Technology,0,$0,0,$0,LOGM
+412,Barrick Gold Corp. (GOLD),Materials,0,$0,0,$0,GOLD
+413,WABTEC Corp. (WAB),Industrials,1,"$503,134",0,$0,WAB
+414,Pivotal Investment Corp. (PIC),Financials,0,$0,0,$0,PIC
+415,Atlantic Capital Bancshares (ACBI),Financials,1,"$15,350",0,$0,ACBI
+416,Weyerhaeuser Corp. (WY),Materials,2,"$125,700",0,$0,WY
+417,Bank of Nova Scotia (BNS),Financials,0,$0,0,$0,BNS
+418,Deere & Co. (DE),Industrials,0,$0,0,$0,DE
+419,Northeast Bancorp (NBN),Financials,0,$0,0,$0,NBN
+420,Associated British Foods plc (ASBFF),Consumer Staples,0,$0,0,$0,ASBFF
+421,BKF Capital Group Inc. (BKFG),Services,0,$0,0,$0,BKFG
+422,Zynga Inc. (ZNGA),Technology,0,$0,20,"$5,154,705",ZNGA
+423,AbbVie Inc. (ABBV),Health Care,3,"$255,755",2,"$3,725,036",ABBV
+424,IDT Corp. CL B (IDT),Technology,0,$0,0,$0,IDT
+425,RH (RH),Services,0,$0,0,$0,RH
+426,Trelleborg AB (TBABF),Industrials,0,$0,0,$0,TBABF
+427,Infinera Corp. (INFN),Technology,5,"$18,294,257",0,$0,INFN
+428,Amedisys (AMED),Health Care,2,"$448,942",40,"$6,270,398",AMED
+429,Davide Campari-Milano S.p.A. (DVDCF),Consumer Goods,0,$0,0,$0,DVDCF
+430,Ferro Corp. (FOE),Materials,0,$0,0,$0,FOE
+431,International Bus. Machines (IBM),Information Technology,0,$0,0,$0,IBM
+432,Blue Apron Holdings (APRN),Consumer Cyclical,0,$0,6,"$72,549",APRN
+433,Sprint Corp. (S),Telecommunications Services,0,$0,0,$0,S
+434,Red Lion Hotels Corp. (RLH),Consumer Cyclical,0,$0,0,$0,RLH
+435,JC Decaux SA ACT (JCDXF),Services,0,$0,0,$0,JCDXF
+436,Arrow Electronics (ARW),Information Technology,1,"$24,977",5,"$2,231,336",ARW
+437,Alexion Pharmaceuticals Inc. (ALXN),Health Care,38,"$39,465,063",0,$0,ALXN
+438,Moody's Corp. (MCO),Financials,0,$0,51,"$33,492,723",MCO
+439,Juniper Networks (JNPR),Information Technology,0,$0,2,"$542,088",JNPR
+440,Armstrong Flooring Inc. (AFI),Consumer Goods,30,"$821,458",0,$0,AFI
+441,BlackRock Floating Rate Inc Strat. Fund (FRA),Financials,0,$0,0,$0,FRA
+442,Global Payments Inc. (GPN),Information Technology,1,"$99,042",8,"$7,021,681",GPN
+443,Monro Inc. (MNRO),Consumer Goods,0,$0,0,$0,MNRO
+444,Liberty LiLAC Group A (LILA),Services,2,"$199,710",0,$0,LILA
+445,Fortis Inc. (FTS),Utilities,0,$0,0,$0,FTS
+446,Cal-Maine Foods Inc. (CALM),Consumer Goods,0,$0,1,"$41,635",CALM
+447,Graphic Packaging Hldg Co. (GPK),Consumer Goods,7,"$109,389",5,"$793,820",GPK
+448,Waste Management Inc. (WM),Industrials,0,$0,0,$0,WM
+449,Spirit Airlines (SAVE),Services,1,"$50,850",1,"$6,500",SAVE
+450,Tokyo Broadcasting System Holdings (9401.T),Telecommunications Services,0,$0,0,$0,9401.T
+451,T-Mobile US Inc. (TMUS),Technology,0,$0,0,$0,TMUS
+452,Standard Chartered PLC (SCBFF),Financials,0,$0,0,$0,SCBFF
+453,RLI Corp. (RLI),Financials,2,"$107,730",0,$0,RLI
+454,First National Bank Alaska (FBAK),Financials,0,$0,0,$0,FBAK
+455,FMC Corp. (FMC),Materials,0,$0,0,$0,FMC
+456,Mohawk Industries (MHK),Consumer Discretionary,3,"$25,551,880",1,"$375,319",MHK
+457,Bureau Veritas SA (BVRDF),Industrials,0,$0,0,$0,BVRDF
+458,Tarkett SA (TKFTF),Consumer Goods,0,$0,0,$0,TKFTF
+459,Eaton Vance Senior Income Trust (EVF),Financials,17,"$9,518,532",0,$0,EVF
+460,Texas Instruments (TXN),Information Technology,0,$0,3,"$1,359,358",TXN
+461,Imperial Oil Ltd. (IMO),Materials,0,$0,0,$0,IMO
+462,Royal Gold Inc. (RGLD),Materials,0,$0,0,$0,RGLD
+463,Roche Holding AG ADR (RHHBY),Health Care,0,$0,0,$0,RHHBY
+464,Roche Holdings AG DIV RT (RHHVF),Health Care,0,$0,0,$0,RHHVF
+465,SVB Financial Group (SIVB),Financials,0,$0,11,"$1,927,687",SIVB
+466,Stanley Electric Co Ltd (STAEF),Consumer Cyclical,0,$0,0,$0,STAEF
+467,Diamond S Shipping Inc. (DSSI),Industrials,1,"$19,680",2,"$46,821",DSSI
+468,Mastercard Inc. (MA),Services,1,"$265,000",11,"$44,877,856",MA
+469,Danaher Corp. (DHR),Industrials,6,"$23,490,923",9,"$18,744,609",DHR
+470,Tivity Health Inc. (TVTY),Health Care,7,"$3,473,677",0,$0,TVTY
+471,SBA Communications Corp. (SBAC),Technology,0,$0,39,"$99,288,040",SBAC
+472,Humana Inc. (HUM),Health Care,1,"$434,100",4,"$6,591,765",HUM
+473,Scotts Miracle-Gro Co. (SMG),Materials,0,$0,47,"$34,348,384",SMG
+474,Intelsat S.A. (I),Technology,0,$0,0,$0,I
+475,Progressive Corp. (PGR),Financials,0,$0,5,"$6,473,884",PGR
+476,Kroger Co. (KR),Consumer Staples,0,$0,14,"$5,108,221",KR
+477,Spartan Motors Inc. (SPAR),Consumer Goods,0,$0,1,"$150,609",SPAR
+478,Western Midstream Partners LP (WES),Energy,4,"$2,053,986",0,$0,WES
+479,ANSYS Inc. (ANSS),Information Technology,0,$0,18,"$2,497,753",ANSS
+480,HD Supply Holdings (HDS),Services,7,"$15,636,616",0,$0,HDS
+481,Lazard Ltd. (LAZ),Financials,0,$0,0,$0,LAZ
+482,Netflix Inc. (NFLX),Consumer Discretionary,0,$0,57,"$75,572,383",NFLX
+483,Dillard Inc. (DDS),Services,1,"$7,486",0,$0,DDS
+484,Genworth Financial Inc. (GNW),Financials,0,$0,0,$0,GNW
+485,Vornado Realty Trust (VNO),Financials,1,"$497,113",0,$0,VNO
+486,Trimble Inc. (TRMB),Information Technology,0,$0,2,"$680,379",TRMB
+487,WestRock Co. (WRK),Consumer Goods,3,"$7,881",0,$0,WRK
+488,Cirrus Logic Inc. (CRUS),Technology,0,$0,4,"$8,011,321",CRUS
+489,BASF SE (BFFAF),Materials,0,$0,0,$0,BFFAF
+490,Skechers U.S.A. Inc. (SKX),Consumer Discretionary,0,$0,5,"$4,242,025",SKX
+491,Culp Inc. (CULP),Industrial Goods,3,"$58,968",0,$0,CULP
+492,FleetCor Technologies Inc. (FLT),Services,0,$0,1,"$6,633,650",FLT
+493,Cracker Barrel Old Cntry Store (CBRL),Services,1,"$223,009",0,$0,CBRL
+494,Glencore Plc (GLNCY),Materials,0,$0,0,$0,GLNCY
+495,NEXON Co. Ltd. (NEXOF),Technology,0,$0,0,$0,NEXOF
+496,Antero Midstream Corp. (AMGP),Energy,0,$0,0,$0,AMGP
+497,Adient plc (ADNT),Materials,3,"$140,421",0,$0,ADNT
+498,Cullen Frost Bankers (CFR),Financials,4,"$2,099,018",3,"$1,632,881",CFR
+499,Bristol-Myers Squibb Rights (BMY.R),Health Care,0,$0,0,$0,BMY.R
+500,Occidental Petroleum (OXY),Energy,3,"$507,600",1,"$445,500",OXY
+501,PepsiCo Inc. (PEP),Consumer Staples,0,$0,1,"$1,055,108",PEP
+502,Nexstar Media Group (NXST),Services,5,"$674,595",23,"$4,006,593",NXST
+503,Polaris Inc. (PII),Consumer Discretionary,0,$0,0,$0,PII
+504,Accelerate Diagnostics Inc. (AXDX),Health Care,22,"$11,345,290",0,$0,AXDX
+505,NVIDIA Corp. (NVDA),Information Technology,0,$0,65,"$76,931,271",NVDA
+506,Discovery Communications Inc. CL C (DISCK),Consumer Discretionary,0,$0,0,$0,DISCK
+507,Welbilt Inc. (WBT),Services,4,"$381,820",0,$0,WBT
+508,Block H&R (HRB),Consumer Discretionary,0,$0,0,$0,HRB
+509,Regal-Beloit Corp. (RBC),Industrials,0,$0,0,$0,RBC
+510,Apollo Global Management (APO),Financials,1,"$58,973",39,"$133,863,785",APO
+511,Air Products & Chemicals (APD),Materials,0,$0,0,$0,APD
+512,Meridian Bancorp Inc. (EBSB),Financials,0,$0,4,"$37,251",EBSB
+513,Union Pacific (UNP),Industrials,1,"$2,073,000",0,$0,UNP
+514,Falcon Minerals Corp. WTS (FLMN.WS),Energy,0,$0,0,$0,FLMN.WS
+515,IAC/InterActive Corp. (IAC),Consumer Discretionary,0,$0,0,$0,IAC
+516,Miller Industries Inc. (MLR),Consumer Goods,0,$0,0,$0,MLR
+517,Verint Systems Inc. (VRNT),Technology,0,$0,12,"$5,052,519",VRNT
+518,Magnolia Oil & Gas Corp. (MGY),Energy,2,"$83,873",0,$0,MGY
+519,Expeditors Int'l (EXPD),Industrials,0,$0,1,"$1,417,536",EXPD
+520,Gildan Activewear Inc. (GIL),Consumer Goods,0,$0,0,$0,GIL
+521,Sherwin-Williams (SHW),Consumer Discretionary,0,$0,8,"$13,828,253",SHW
+522,Dover Corp. (DOV),Industrials,2,"$86,175",0,$0,DOV
+523,Bristol-Myers Squibb (BMY),Health Care,0,$0,2,"$1,762,232",BMY
+524,Tidewater Inc. (TDW),Energy,4,"$159,088",0,$0,TDW
+525,FRP Holdings Inc. (FRPH),Services,0,$0,0,$0,FRPH
+526,Olympus Corp. (OCPNY),Health Care,0,$0,0,$0,OCPNY
+527,Pitney-Bowes (PBI),Industrials,1,"$5,120",0,$0,PBI
+528,Battalion Oil Corp. (BATL),Energy,0,$0,0,$0,BATL
+529,Krones AG (KRNNF),Industrial Goods,0,$0,0,$0,KRNNF
+530,Tapestry Inc. (TPR),Consumer Discretionary,0,$0,0,$0,TPR
+531,HP Inc. (HPQ),Information Technology,3,"$1,212,060",0,$0,HPQ
+532,Energy Transfer Partners LP (ETP),Materials,0,$0,0,$0,ETP
+533,Triple-S Management Corp. (GTS),Financials,1,"$14,700",0,$0,GTS
+534,Affiliated Managers Group (AMG),Financials,4,"$1,830,410",0,$0,AMG
+535,ManpowerGroup (MAN),Industrials,0,$0,0,$0,MAN
+536,WR Grace & Co. (GRA),Materials,3,"$334,290",0,$0,GRA
+537,SB One Bancorp (SBBX),Financials,6,"$87,489",0,$0,SBBX
+538,Coca Cola Co. (KO),Consumer Staples,1,"$76,898",5,"$24,055,903",KO
+539,Graco Inc. (GGG),Industrials,0,$0,1,"$2,115,000",GGG
+540,Elanco Animal Health Inc. (ELAN),Health Care,2,"$359,000",0,$0,ELAN
+541,ita Unibanco Holding S.A. (ITUB),Financials,0,$0,0,$0,ITUB
+542,Icahn Enterprises (IEP),Financials,0,$0,0,$0,IEP
+543,Deswell Industries (DSWL),Consumer Goods,0,$0,0,$0,DSWL
+544,Mosaic Co. (MOS),Materials,6,"$442,680",0,$0,MOS
+545,Gap Inc. (GPS),Consumer Discretionary,0,$0,0,$0,GPS
+546,Ally Financial Inc. (ALLY),Financials,3,"$666,360",0,$0,ALLY
+547,ICC Holdings Inc. (ICCH),Financials,0,$0,0,$0,ICCH
+548,Federal Life Group Inc. (FLF),Financials,0,$0,0,$0,FLF
+549,Old Dominion Freight Line (ODFL),Industrials,0,$0,0,$0,ODFL
+550,AngloGold Ashanti Ltd. (AU),Materials,0,$0,0,$0,AU
+551,Regeneron Pharmaceuticals (REGN),Health Care,0,$0,336,"$12,020,631,939",REGN
+552,Franco Nevada Corp. (FNNVF),Materials,0,$0,0,$0,FNNVF
+553,Keysight Technologies Inc. (KEYS),Technology,0,$0,5,"$9,460,428",KEYS
+554,Muenchener Rueckversicherungs Gesellschaft AG (MURGF),Financials,0,$0,0,$0,MURGF
+555,iShares 1-3 Year Treasury BondÂ ETF (SHY),NA,0,$0,0,$0,SHY
+556,Aptiv PLC (APTV),Consumer Goods,0,$0,0,$0,APTV
+557,Advanced Emissions Solutions (ADES),Industrial Goods,0,$0,0,$0,ADES
+558,First Amer'n Corp. (FAF),Financials,0,$0,1,"$1,977,000",FAF
+559,Albemarle Corp. (ALB),Materials,0,$0,0,$0,ALB
+560,ServiceMaster Global Holdings (SERV),Industrial Goods,5,"$426,204",0,$0,SERV
+561,CIT Group (CIT),Financials,18,"$1,672,820",0,$0,CIT
+562,Honeywell Int'l Inc. (HON),Industrials,0,$0,0,$0,HON
+563,CNH Industrial NV (CNHI),Industrial Goods,0,$0,0,$0,CNHI
+564,Gentherm Inc (THRM),Consumer Goods,0,$0,0,$0,THRM
+565,Energy Transfer Equity LP (ETE),Materials,0,$0,0,$0,ETE
+566,Teradata Corp. (TDC),Information Technology,3,"$199,746",0,$0,TDC
+567,Cooper Tire & Rubber Co. (CTB),Consumer Goods,0,$0,0,$0,CTB
+568,General Motors (GM),Consumer Discretionary,3,"$1,050,714",0,$0,GM
+569,Sleep Number Corp. (SNBR),Consumer Cyclical,0,$0,2,"$107,504",SNBR
+570,Altria Group Inc. (MO),Consumer Staples,0,$0,0,$0,MO
+571,FactSet Research Systems (FDS),Information Technology,0,$0,19,"$19,627,138",FDS
+572,Crimson Wine Group (CWGL),Consumer Goods,11,"$1,004,294",0,$0,CWGL
+573,Retail Opportunity Investments Corp. (ROIC),Real Estate,1,"$268,424",0,$0,ROIC
+574,Ceridian HCM Holding Inc. (CDAY),Technology,0,$0,7,"$245,303,616",CDAY
+575,Colgate-Palmolive (CL),Consumer Staples,0,$0,10,"$2,776,673",CL
+576,ON Semiconductor Corp. (ON),Technology,0,$0,1,"$297,598",ON
+577,TerraForm Power Inc. (TERP),Utilities,0,$0,0,$0,TERP
+578,Core Laboratories NV (CLB),Materials,3,"$16,555",0,$0,CLB
+579,Kraft Heinz Co. (KHC),Consumer Staples,0,$0,0,$0,KHC
+580,Chevron Corp. (CVX),Energy,0,$0,0,$0,CVX
+581,Hewlett Packard Enterprise (HPE),Technology,0,$0,0,$0,HPE
+582,Toronto-Dominion Bank (TD),Financials,0,$0,0,$0,TD
+583,Caterpillar Inc. (CAT),Industrials,0,$0,0,$0,CAT
+584,Endo International plc (ENDP),Health Care,0,$0,0,$0,ENDP
+585,Chemical & Mining Co. of Chile (SQM),Materials,0,$0,0,$0,SQM
+586,Newcrest Mining Ltd. (NCMGY),Materials,0,$0,0,$0,NCMGY
+587,Unifi Inc. (UFI),Consumer Discretionary,15,"$1,294,480",0,$0,UFI
+588,Bel Fuse Inc. (BELFB),Information Technology,5,"$190,789",1,"$9,350",BELFB
+589,Cleveland-Cliffs Inc. (CLF),Materials,6,"$1,129,153",0,$0,CLF
+590,NVE Corp. (NVEC),Technology,0,$0,0,$0,NVEC
+591,Raymond James Finl (RJF),Financials,2,"$1,588,806",2,"$948,813",RJF
+592,Five9 Inc. (FIVN),Technology,0,$0,42,"$10,206,032",FIVN
+593,CoreSite Realty Corp. (COR),Financials,0,$0,70,"$1,682,844,520",COR
+594,Permian Basin Royalty Trust (PBT),Materials,0,$0,0,$0,PBT
+595,Crown Holdings (CCK),Consumer Goods,0,$0,0,$0,CCK
+596,SIGA Technologies Inc. (SIGA),Health Care,0,$0,0,$0,SIGA
+597,Charles Schwab (SCHW),Financials,2,"$290,416",2,"$810,578",SCHW
+598,M&T Bank Corp. (MTB),Financials,0,$0,2,"$207,050",MTB
+599,Novartis AG (NVS),Health Care,0,$0,0,$0,NVS
+600,Volkswagen AG (VLKAF),Consumer Cyclical,0,$0,0,$0,VLKAF
+601,Macy's Inc. (M),Consumer Discretionary,0,$0,4,"$36,837",M
+602,Starbucks Corp. (SBUX),Consumer Discretionary,0,$0,4,"$1,056,755",SBUX
+603,City Office Reit (CIO),Financials,5,"$301,168",0,$0,CIO
+604,TreeHouse Foods (THS),Consumer Staples,2,"$75,225",3,"$2,401,014",THS
+605,Trupanion Inc. (TRUP),Financials,0,$0,20,"$2,027,188",TRUP
+606,Brunswick Corp. (BC),Consumer Discretionary,0,$0,0,$0,BC
+607,JD.com Inc. (JD),Technology,0,$0,0,$0,JD
+608,iShares MSCI India ETF (INDA),NA,0,$0,0,$0,INDA
+609,Broadridge Financial Solutions (BR),Information Technology,0,$0,16,"$21,806,626",BR
+610,frontdoor Inc. (FTDR),Industrials,1,"$173,888",0,$0,FTDR
+611,Borg Warner Inc. (BWA),Consumer Discretionary,0,$0,4,"$1,672,538",BWA
+612,Enterprise Products Partners LP (EPD),Materials,26,"$5,350,399",0,$0,EPD
+613,MBIA Inc. (MBI),Financials,0,$0,1,"$130,636",MBI
+614,NMI Holdings (NMIH),Financials,0,$0,1,"$21,593",NMIH
+615,IDEXX Laboratories (IDXX),Health Care,0,$0,27,"$60,716,597",IDXX
+616,Aggreko Plc (ARGKF),Industrial Goods,0,$0,0,$0,ARGKF
+617,SLM Corp. (SLM),Financials,0,$0,0,$0,SLM
+618,Sutter Rock Capital Corp. (SSSS),Financials,28,"$4,909,874",0,$0,SSSS
+619,Reinsurance Group of America Inc. (RGA),Financials,0,$0,1,"$63,139",RGA
+620,Marriott Int'l. (MAR),Consumer Discretionary,0,$0,2,"$3,931,588",MAR
+621,CME Group (CME),Financials,1,"$137,315",2,"$2,162,970",CME
+622,Ellington Financial LLC (EFC),Financials,0,$0,0,$0,EFC
+623,Colony Capital Inc. (CLNY),Financials,10,"$1,894,787",4,"$198,696",CLNY
+624,EQT Corp. (EQT),Utilities,1,"$12,860",0,$0,EQT
+625,Clear Channel Outdoor Holdings (CCO),Services,2,"$32,730",0,$0,CCO
+626,Abercrombie & Fitch Co. (ANF),Consumer Discretionary,5,"$532,990",0,$0,ANF
+627,Consolidated Edison (ED),Utilities,28,"$80,641",0,$0,ED
+628,Post Holdings (POST),Consumer Goods,1,"$8,472",2,"$409,247",POST
+629,Tennant Co. (TNC),Industrial Goods,0,$0,0,$0,TNC
+630,Paycom Software Inc. (PAYC),Technology,0,$0,40,"$185,679,647",PAYC
+631,Digi International (DGII),Information Technology,0,$0,4,"$447,640",DGII
+632,Royal Bank of Scotland (RBS),Financials,0,$0,0,$0,RBS
+633,Liberty SiriusXM Series C (LSXMK),Services,22,"$336,622,090",0,$0,LSXMK
+634,Manning & Napier (MN),Financials,4,"$30,746",0,$0,MN
+635,Visteon Corp. (VC),Consumer Goods,1,"$251,250",0,$0,VC
+636,Northwest Pipe Co. (NWPX),Materials,1,"$25,320",1,"$105,543",NWPX
+637,"Suburban Propane Partners, L.P. (SPH)",Utilities,0,$0,0,$0,SPH
+638,Fidelity National Financial Inc. (FNF),Financials,0,$0,6,"$11,513,395",FNF
+639,Bio-Techne Corp. (TECH),Health Care,0,$0,18,"$15,190,266",TECH
+640,Veeva Systems Inc. (VEEV),Technology,0,$0,32,"$14,992,015",VEEV
+641,Envista Holdings Corp. (NVST),Health Care,0,$0,0,$0,NVST
+642,Heineken NV (HINKY),Consumer Goods,0,$0,0,$0,HINKY
+643,Fomento Economico Mexicano (FMX),Consumer Goods,0,$0,0,$0,FMX
+644,ATN International Inc. (ATNI),Telecommunications Services,0,$0,14,"$683,537",ATNI
+645,Cimarex Energy Co. (XEC),Energy,4,"$537,308",0,$0,XEC
+646,Nuance Communications Inc. (NUAN),Technology,0,$0,49,"$3,881,052",NUAN
+647,Fortinet Inc. (FTNT),Technology,0,$0,40,"$11,221,319",FTNT
+648,Lululemon Athletica Inc. (LULU),Consumer Goods,0,$0,27,"$124,997,863",LULU
+649,Farmers & Merchants Bank (FMBL),Financials,0,$0,0,$0,FMBL
+650,Laboratory Corp. of America Hldgs (LH),Health Care,2,"$99,360",1,"$5,000,000",LH
+651,News Corp. CL B (NWS),Services,0,$0,1,"$151,603",NWS
+652,Copart Inc. (CPRT),Industrials,0,$0,11,"$189,447,291",CPRT
+653,NortonLifeLock Inc. (NLOK),Information Technology,0,$0,4,"$2,402,562",NLOK
+654,Patterson UTI-Energy (PTEN),Energy,7,"$494,966",0,$0,PTEN
+655,Community Trust Bancorp Inc. (CTBI),Financials,2,"$29,634",0,$0,CTBI
+656,Arconic Inc. (ARNC),Industrial Goods,5,"$852,174",0,$0,ARNC
+657,American Intl. Grp. WTS (AIG.WS),Financials,0,$0,0,$0,AIG.WS
+658,China Yuchai Intl Ltd. (CYD),Industrial Goods,0,$0,0,$0,CYD
+659,Toyota Industries Corp. (TYIDF),Consumer Goods,0,$0,0,$0,TYIDF
+660,Seagate Technology (STX),Technology,0,$0,13,"$6,881,063",STX
+661,Taylor Morrison Home Corp. (TMHC),Industrial Goods,1,"$7,075",1,"$7,055",TMHC
+662,Dollarama Inc. (DLMAF),Consumer Goods,0,$0,0,$0,DLMAF
+663,Assurant Inc. (AIZ),Financials,0,$0,0,$0,AIZ
+664,United Airlines Holdings Inc. (UAL),Services,0,$0,0,$0,UAL
+665,Amerant Bancorp Inc. (AMTB),Financials,0,$0,0,$0,AMTB
+666,Maxim Integrated Products (MXIM),Information Technology,0,$0,10,"$3,104,839",MXIM
+667,Western Digital (WDC),Information Technology,0,$0,1,"$59,352",WDC
+668,Penske Automotive Group (PAG),Services,0,$0,0,$0,PAG
+669,General Electric (GE),Industrials,0,$0,1,"$31,670,467",GE
+670,Camping World Holdings Inc. (CWH),Consumer Discretionary,14,"$1,697,386",0,$0,CWH
+671,KeyCorp (KEY),Financials,3,"$1,109,564",0,$0,KEY
+672,Brown & Brown Inc. (BRO),Financials,0,$0,0,$0,BRO
+673,Prosus NV (PROSF),Technology,0,$0,0,$0,PROSF
+674,Interactive Brokers Group Inc. (IBKR),Financials,0,$0,1,"$64,758",IBKR
+675,Zoetis Inc. (ZTS),Health Care,0,$0,7,"$3,133,595",ZTS
+676,Carlisle Companies (CSL),Industrials,0,$0,0,$0,CSL
+677,Aspen Group Inc. (ASPU),Consumer Goods,2,"$71,955",12,"$2,581,701",ASPU
+678,IDW Media Holdings (IDWM),Services,0,$0,0,$0,IDWM
+679,Pacific Biosciences of California (PACB),Health Care,0,$0,1,"$8,421",PACB
+680,Advanced Micro Devices (AMD),Information Technology,0,$0,17,"$35,737,320",AMD
+681,SPDR S&P 500 ETF Trust (SPY),,0,$0,0,$0,SPY
+682,STORE Capital Corp. (STOR),Financials,11,"$851,753",0,$0,STOR
+683,International Flav/Frag (IFF),Materials,143,"$201,054,071",2,"$89,448",IFF
+684,Danone (DANOY),Consumer Goods,0,$0,0,$0,DANOY
+685,Lions Gate Ent. Corp. CL B (LGF.B),Services,1,"$50,435",0,$0,LGF.B
+686,Forestar Group Inc. (FOR),Real Estate,2,"$9,475",0,$0,FOR
+687,Delta Air Lines Inc. (DAL),Services,6,"$645,435",7,"$314,379,791",DAL
+688,Trinity Place Holdings (TPHS),Financials,2,"$8,300",0,$0,TPHS
+689,AIA Group Ltd. (AAIGF),Financials,0,$0,0,$0,AAIGF
+690,Taubman Centers Inc. (TCO),Financials,0,$0,0,$0,TCO
+691,Rinnai Corp. (RINIF),Consumer Cyclical,0,$0,0,$0,RINIF
+692,HarborOne Bancorp (HONE),Financials,12,"$177,779",0,$0,HONE
+693,Houlihan Lokey Inc. (HLI),Financials,0,$0,33,"$16,609,863",HLI
+694,US Foods Holding Corp. (USFD),Consumer Goods,0,$0,0,$0,USFD
+695,China Feihe Ltd (CFEIY),Consumer Staples,0,$0,0,$0,CFEIY
+696,Hexcel Corp. (HXL),Industrial Goods,2,"$2,022,238",1,"$393,916",HXL
+697,Viper Energy Partners LP (VNOM),Energy,0,$0,0,$0,VNOM
+698,Deciphera Pharmaceuticals Inc. (DCPH),Health Care,0,$0,18,"$7,792,478",DCPH
+699,Inchcape plc (INCPY),Consumer Goods,0,$0,0,$0,INCPY
+700,Sculptor Capital Management (SCU),Financials,0,$0,0,$0,SCU
+701,BOK Financial Corp. (BOKF),Financials,6,"$408,495",0,$0,BOKF
+702,BCB Bancorp (BCBP),Financials,34,"$145,496",0,$0,BCBP
+703,Conduent Inc. (CNDT),Services,6,"$403,594",0,$0,CNDT
+704,Taiwan Semiconductor S.A. (TSM),Technology,0,$0,0,$0,TSM
+705,Yum! Brands Inc. (YUM),Consumer Discretionary,0,$0,4,"$1,469,857",YUM
+706,W.R. Berkley Corp. (WRB),Financials,0,$0,0,$0,WRB
+707,LPL Investment Holdings Inc. (LPLA),Financials,0,$0,0,$0,LPLA
+708,First of Long Island Corp. (FLIC),Financials,7,"$416,054",3,"$50,284",FLIC
+709,Oaktree Strategic Income Corp. (OCSI),Financials,7,"$250,027",1,"$11,048",OCSI
+710,Alcoa Corp. (AA),Materials,2,"$2,888",0,$0,AA
+711,D.R. Horton (DHI),Consumer Discretionary,0,$0,4,"$175,103",DHI
+712,MSB Financial Corp. (MSBF),Financials,0,$0,0,$0,MSBF
+713,Nomad Foods Ltd (NOMD),Consumer Goods,0,$0,0,$0,NOMD
+714,Ubiquiti Inc. (UI),Technology,0,$0,1,"$272,987",UI
+715,Johnson Controls Intl. plc (JCI),Consumer Discretionary,0,$0,5,"$1,990,514",JCI
+716,LVMH Moet Hennessy S.E.  (LVMUY),Consumer Goods,0,$0,0,$0,LVMUY
+717,Parsley Energy Inc. (PE),Materials,4,"$73,486",0,$0,PE
+718,Rollins Inc. (ROL),Industrials,0,$0,0,$0,ROL
+719,Columbia Financial Inc. (CLBK),Financials,10,"$351,520",0,$0,CLBK
+720,Lions Gate Ent. Corp. CL A (LGF.A),Services,0,$0,0,$0,LGF.A
+721,Eagle Bulk Shipping (EGLE),Services,0,$0,0,$0,EGLE
+722,Ambarella Inc. (AMBA),Technology,0,$0,42,"$1,966,573",AMBA
+723,Wingstop Inc. (WING),Services,0,$0,12,"$2,880,332",WING
+724,MasterCraft Boat Holdings Inc. (MCFT),Consumer Goods,0,$0,0,$0,MCFT
+725,Quad/Graphics Inc. (QUAD),Services,1,"$9,990",0,$0,QUAD
+726,ViacomCBS Inc. (VIAC),Telecommunications Services,0,$0,0,$0,VIAC
+727,United Overseas Bank Ltd. (UOVEY),Financials,0,$0,0,$0,UOVEY
+728,Chipotle Mexican Grill Inc. (CMG),Services,0,$0,75,"$65,543,031",CMG
+729,Alteryx Inc. (AYX),Technology,0,$0,95,"$45,065,937",AYX
+730,MDU Resources (MDU),Utilities,9,"$491,621",0,$0,MDU
+731,Dolby Laboratories Inc. (DLB),Technology,0,$0,4,"$6,587,128",DLB
+732,Liberty Broadband Corp. CL C (LBRDK),Services,0,$0,0,$0,LBRDK
+733,AutoZone Inc. (AZO),Consumer Discretionary,4,"$1,772,000",4,"$7,364,667",AZO
+734,CarMax Inc. (KMX),Consumer Discretionary,1,"$99,060",0,$0,KMX
+735,Southwest Airlines (LUV),Industrials,0,$0,97,"$75,054,694",LUV
+736,FedEx Corp. (FDX),Industrials,1,"$560,200",7,"$20,414,404",FDX
+737,TransUnion (TRU),Services,0,$0,6,"$19,802,508",TRU
+738,Aaron's Inc. (AAN),Services,0,$0,0,$0,AAN
+739,Matson Inc. (MATX),Services,0,$0,0,$0,MATX
+740,Mercury General Corp. (MCY),Financials,17,"$29,850,217",0,$0,MCY
+741,Monolithic Power Systems (MPWR),Technology,0,$0,34,"$64,696,808",MPWR
+742,Hawaiian Electric Industries (HE),Utilities,3,"$69,820,219",4,"$197,511",HE
+743,Castlight Health Inc. (CSLT),Technology,2,"$96,324",1,"$3,565",CSLT
+744,V.F. Corp. (VFC),Consumer Discretionary,1,"$99,954",0,$0,VFC
+745,Hologic Inc. (HOLX),Health Care,0,$0,8,"$13,392,159",HOLX
+746,Sabre Corp. (SABR),Technology,1,"$65,400",0,$0,SABR
+747,Callaway Golf Co. (ELY),Consumer Discretionary,0,$0,0,$0,ELY
+748,Incyte Corp. (INCY),Health Care,2,$206,11,"$5,052,628",INCY
+749,Smucker (J.M.) (SJM),Consumer Staples,0,$0,3,"$252,840",SJM
+750,Cintas Corp. (CTAS),Industrials,0,$0,0,$0,CTAS
+751,Olin Corp. (OLN),Materials,0,$0,0,$0,OLN
+752,Cheniere Energy Inc. (LNG),Materials,4,"$519,676",0,$0,LNG
+753,Wix.com Ltd. (WIX),Technology,0,$0,0,$0,WIX
+754,Hang Lung Group Ltd (HNLGF),Real Estate,0,$0,0,$0,HNLGF
+755,Lincoln National (LNC),Financials,8,"$1,313,534",0,$0,LNC
+756,Kirby Corp. (KEX),Industrials,1,"$51,250",1,"$31,385",KEX
+757,Provident New York Bancorp (PBNY),Financials,0,$0,0,$0,PBNY
+758,Markel Corp. (MKL),Financials,5,"$831,864",2,"$493,825",MKL
+759,International Paper (IP),Materials,1,"$160,425",1,"$129,626",IP
+760,Southside Bancshares Inc. (SBSI),Financials,5,"$147,581",0,$0,SBSI
+761,Capital Product Partners LP (CPLP),Services,0,$0,0,$0,CPLP
+762,United Parcel Service (UPS),Industrials,1,"$1,003,233",0,$0,UPS
+763,MYR Group Inc. (MYRG),Industrial Goods,0,$0,0,$0,MYRG
+764,SCHRODINGER Inc. (SDGR),Health Care,0,$0,0,$0,SDGR
+765,Johnson & Johnson (JNJ),Health Care,1,"$63,843",0,$0,JNJ
+766,Reckitt Benckiser Group Plc (RBGPF),Consumer Goods,0,$0,0,$0,RBGPF
+767,Zeon Corp. (ZEOOF),Consumer Cyclical,0,$0,0,$0,ZEOOF
+768,Waters Corp. (WAT),Health Care,0,$0,1,"$917,650",WAT
+769,Kearny Financial Corp. (KRNY),Financials,4,"$99,580",0,$0,KRNY
+770,Lindblad Expeditions Hldgs Inc. (LIND),Consumer Discretionary,7,"$542,929",0,$0,LIND
+771,NXP Semiconductors NV (NXPI),Technology,1,"$17,468",2,"$192,724",NXPI
+772,Maxar Technologies Inc. (MAXR),Technology,0,$0,0,$0,MAXR
+773,WPX Energy (WPX),Energy,4,"$240,320",0,$0,WPX
+774,Vishay Intertechnology (VSH),Information Technology,0,$0,0,$0,VSH
+775,Wayfair Inc. (W),Services,1,"$12,570,000",42,"$36,316,412",W
+776,RMR Group Inc. (RMR),Real Estate,0,$0,0,$0,RMR
+777,Novo Nordisk A S (NVO),Health Care,0,$0,0,$0,NVO
+778,CVS Health Corp. (CVS),Consumer Staples,1,"$315,675",4,"$1,290,700",CVS
+779,First Hawaiian Inc. (FHB),Financials,1,"$50,008",0,$0,FHB
+780,Sprague Resources LP (SRLP),Energy,1,"$10,023,771",0,$0,SRLP
+781,Salesforce.com (CRM),Technology,5,"$165,463",515,"$131,277,670",CRM
+782,GoDaddy Inc. (GDDY),Technology,0,$0,18,"$13,961,806",GDDY
+783,Carlyle Group (CG),Financials,0,$0,0,$0,CG
+784,Zuora Inc. (ZUO),Technology,0,$0,3,"$13,989",ZUO
+785,Cresud Inc. (CRESY),Consumer Goods,0,$0,0,$0,CRESY
+786,Edison Int'l (EIX),Utilities,0,$0,1,"$12,917",EIX
+787,Silicon Laboratories Inc. (SLAB),Information Technology,0,$0,2,"$257,084",SLAB
+788,William H. Sadlier (SADL),Services,0,$0,0,$0,SADL
+789,Centene Corp. (CNC),Health Care,0,$0,7,"$8,186,709",CNC
+790,Verisk Analytics Inc. (VRSK),Services,0,$0,3,"$6,720,003",VRSK
+791,Interpublic Group (IPG),Consumer Discretionary,1,"$50,499",0,$0,IPG
+792,Target Corp. (TGT),Consumer Discretionary,0,$0,8,"$16,504,971",TGT
+793,Restaurant Brands International (QSR),Services,0,$0,3,"$5,234,031",QSR
+794,Skyworks Solutions Inc. (SWKS),Information Technology,0,$0,2,"$802,000",SWKS
+795,Philip Morris Intl. (PM),Consumer Staples,0,$0,0,$0,PM
+796,TransAlta Corp. (TAC),Utilities,0,$0,0,$0,TAC
+797,Coal Creek Company (CCRK),Materials,0,$0,0,$0,CCRK
+798,Ingersoll Rand Inc. (IR),Industrials,0,$0,3,"$796,057,400",IR
+799,Alico Inc. (ALCO),Consumer Goods,0,$0,0,$0,ALCO
+800,Lifeway Foods Inc. (LWAY),Consumer Goods,5,"$4,209",0,$0,LWAY
+801,MKS Instruments (MKSI),Information Technology,0,$0,7,"$2,893,918",MKSI
+802,CACI International Inc. (CACI),Information Technology,1,"$24,992",4,"$1,642,698",CACI
+803,Ball Corp. (BLL),Materials,0,$0,1,"$1,501,750",BLL
+804,United Health Group Inc. (UNH),Health Care,0,$0,6,"$21,245,980",UNH
+805,Groupon Inc. (GRPN),Technology,3,"$1,092,550",0,$0,GRPN
+806,Vivendi Universal S.A. (VIVEF),Services,0,$0,0,$0,VIVEF
+807,Alcon Inc. (ALC),Health Care,0,$0,0,$0,ALC
+808,Popular Inc. (BPOP),Financials,0,$0,0,$0,BPOP
+809,Cir SPA (CIRPF),Industrials,0,$0,0,$0,CIRPF
+810,Visa Inc. (V),Services,0,$0,5,"$15,999,100",V
+811,Check Point Software Technologies (CHKP),Technology,0,$0,0,$0,CHKP
+812,AFLAC Inc. (AFL),Financials,1,"$657,340",1,"$399,505",AFL
+813,Torm Plc (TRMD),Industrials,0,$0,0,$0,TRMD
+814,Arista Networks Inc. (ANET),Technology,0,$0,92,"$14,739,224",ANET
+815,Liberty Media Corp Formula One Series C (FWONK),Services,0,$0,0,$0,FWONK
+816,Encompass Health Corp. (EHC),Health Care,9,"$9,970,517",5,"$3,677,935",EHC
+817,Shake Shack Inc. (SHAK),Services,0,$0,4,"$5,444,838",SHAK
+818,Hugoton Royalty Trust (HGT),Materials,0,$0,0,$0,HGT
+819,St. Joe Co. (JOE),Financials,3,"$68,491",0,$0,JOE
+820,Stanley Black & Decker Inc. (SWK),Consumer Discretionary,0,$0,0,$0,SWK
+821,Lowe's Cos. (LOW),Consumer Discretionary,1,"$1,038,595",0,$0,LOW
+822,Gyrodyne LLC (GYRO),Financials,0,$0,0,$0,GYRO
+823,Walgreens Boots Alliance (WBA),Consumer Staples,0,$0,0,$0,WBA
+824,Avalara Inc. (AVLR),Technology,0,$0,56,"$54,920,395",AVLR
+825,MRC Global Inc. (MRC),Industrial Goods,8,"$1,338,103",0,$0,MRC
+826,L Brands Inc (LB),Services,0,$0,0,$0,LB
+827,Mellanox Technologies Ltd. (MLNX),Technology,0,$0,0,$0,MLNX
+828,LM Ericsson Telephone (ERIC),Technology,0,$0,0,$0,ERIC
+829,Liberty LiLAC Group C (LILAK),Services,0,$0,0,$0,LILAK
+830,Waterstone Financial Inc. (WSBF),Financials,0,$0,2,"$55,370",WSBF
+831,iHeartMedia Inc. (IHRT),Consumer Discretionary,8,"$1,238,775",0,$0,IHRT
+832,Qurate Retail Group Inc. CL A (QRTEA),Consumer Discretionary,2,"$2,994,575",0,$0,QRTEA
+833,Amazon Corp. (AMZN),Consumer Discretionary,18,"$193,042",37,"$46,543,586",AMZN
+834,Weatherford International plc (WFT),Energy,0,$0,0,$0,WFT
+835,Societe BIC SA (BICEF),Consumer Goods,0,$0,0,$0,BICEF
+836,Momenta Pharmaceuticals Inc. (MNTA),Health Care,0,$0,31,"$3,358,877",MNTA
+837,Afya Ltd (AFYA),Consumer Goods,0,$0,0,$0,AFYA
+838,Best Buy Co. Inc. (BBY),Consumer Discretionary,0,$0,64,"$58,768,153",BBY
+839,New York Community Bancorp (NYCB),Financials,2,"$49,443",0,$0,NYCB
+840,Continental Aktiengesellschaft (CON.DE),Consumer Cyclical,0,$0,0,$0,CON.DE
+841,Teva Pharmaceutical Industries Ltd. (TEVA),Health Care,0,$0,7,"$37,602",TEVA
+842,MGM Resorts International (MGM),Services,15,"$27,772,116",0,$0,MGM
+843,Change Healthcare Inc. (CHNG),Health Care,0,$0,0,$0,CHNG
+844,Liberty Global Inc. C (LBTYK),Services,0,$0,0,$0,LBTYK
+845,Continental Resources (CLR),Materials,7,"$1,279,143",0,$0,CLR
+846,Sprouts Farmers Market Inc. (SFM),Services,1,"$65,262",3,"$898,643",SFM
+847,FireEye Inc. (FEYE),Technology,0,$0,1,"$21,743",FEYE
+848,Valhi Inc. (VHI),Materials,2,"$26,507",0,$0,VHI
+849,Tiffany & Co. (TIF),Consumer Discretionary,0,$0,0,$0,TIF
+850,Fulton Financial Corp. (FUTL),Financials,0,$0,0,$0,FUTL
+851,Tenneco Inc. (TEN),Consumer Goods,0,$0,0,$0,TEN
+852,Hyundai Home Shopping Net Corp. (057050.KS),Consumer Goods,0,$0,0,$0,057050.KS
+853,AstraZeneca PLC (AZN),Health Care,0,$0,0,$0,AZN
+854,Guidewire Software Inc. (GWRE),Technology,1,"$151,936",28,"$6,107,434",GWRE
+855,Rockwell Automation Inc. (ROK),Industrials,0,$0,14,"$11,159,078",ROK
+856,Travelers Companies Inc. (TRV),Financials,0,$0,0,$0,TRV
+857,Tallgrass Energy LP (TGE),Energy,4,"$13,718,751,476",2,"$39,578,412",TGE
+858,Snap-On Inc. (SNA),Consumer Discretionary,0,$0,0,$0,SNA
+859,Nielsen NV (NLSN),Technology,1,"$4,082,500",0,$0,NLSN
+860,Cerence Inc. (CRNC),Technology,0,$0,9,"$57,531",CRNC
+861,IAA Inc. (IAA),Consumer Cyclical,0,$0,0,$0,IAA
+862,Stamps.com Inc. (STMP),Consumer Discretionary,0,$0,14,"$8,150,002",STMP
+863,Washington Federal Inc. (WAFD),Financials,4,"$558,995",0,$0,WAFD
+864,Halliburton Co. (HAL),Energy,2,"$4,094,073",0,$0,HAL
+865,Avantor arinc. (AVTR),Materials,0,$0,8,"$989,018,884",AVTR
+866,Motorola Solutions Inc. (MSI),Technology,0,$0,0,$0,MSI
+867,Cypress Semiconductor (CY),Information Technology,0,$0,0,$0,CY
+868,NetApp Inc. (NTAP),Information Technology,0,$0,1,"$405,500",NTAP
+869,Fiserv Inc. (FISV),Information Technology,0,$0,22,"$41,024,825",FISV
+870,American Express (AXP),Financials,0,$0,0,$0,AXP
+871,Antero Resources (AR),Materials,0,$0,0,$0,AR
+872,Cable ONE Inc. (CABO),Technology,4,"$366,494",12,"$7,147,784",CABO
+873,Live Nation Inc. (LYV),Consumer Discretionary,6,"$1,296,093",2,"$3,816,241",LYV
+874,Lonestar Resources US Inc. (LONE),Materials,0,$0,0,$0,LONE
+875,Coupa Software Inc. (COUP),Technology,0,$0,86,"$40,529,643",COUP
+876,Hess Corp. (HES),Energy,9,"$200,072",9,"$1,888,736",HES
+877,Brinker International (EAT),Consumer Discretionary,4,"$80,590",0,$0,EAT
+878,Cisco Systems (CSCO),Information Technology,0,$0,5,"$1,018,547",CSCO
+879,Central Securities Corp. (CET),Financials,10,"$334,934",0,$0,CET
+880,NIKE Inc. (NKE),Consumer Discretionary,2,"$289,153",5,"$25,225,726",NKE
+881,Mattel Inc. (MAT),Consumer Discretionary,0,$0,0,$0,MAT
+882,3M Co. (MMM),Industrials,0,$0,9,"$7,589,361",MMM
+883,McCormick & Co. (MKC),Consumer Staples,0,$0,0,$0,MKC
+884,Anthem Inc. (ANTM),Health Care,0,$0,13,"$15,600,050",ANTM
+885,Kinross Gold Corp. (KGC),Materials,0,$0,0,$0,KGC
+886,Entegris Inc. (ENTG),Technology,0,$0,5,"$4,953,870",ENTG
+887,a2 Milk Company Ltd. (ACOPF),Consumer Staples,0,$0,0,$0,ACOPF
+888,Norfolk Southern Corp. (NSC),Industrials,0,$0,2,"$2,151,107",NSC
+889,Victory Capital Holdings (VCTR),Financials,3,"$987,910",0,$0,VCTR
+890,Synchrony Financial (SYF),Financials,2,"$279,135",1,"$125,100",SYF
+891,Dollar Tree Inc. (DLTR),Consumer Discretionary,3,"$37,632",2,"$1,737,119",DLTR
+892,O'Reilly Automotive (ORLY),Consumer Discretionary,0,$0,2,"$4,798,599",ORLY
+893,Under Armour CL C (UA),Consumer Goods,0,$0,5,"$10,629",UA
+894,Universal Health Services Inc. (UHS),Health Care,0,$0,3,"$435,365",UHS
+895,L'Oreal SA (LRLCF),Consumer Goods,0,$0,0,$0,LRLCF
+896,Customers Bancorp Inc. (CUBI),Financials,0,$0,3,"$58,999",CUBI
+897,Fuller (H.B.) Co. (FUL),Materials,0,$0,0,$0,FUL
+898,Penn National Gaming Inc. (PENN),Services,4,"$1,071,268",0,$0,PENN
+899,Luther Burbank Corp. (LBC),Financials,2,"$101,095",0,$0,LBC
+900,Capital One Financial (COF),Financials,0,$0,2,"$289,628",COF
+901,Chico's FAS (CHS),Consumer Discretionary,0,$0,0,$0,CHS
+902,Shopify Inc. (SHOP),Technology,0,$0,0,$0,SHOP
+903,Parker-Hannifin (PH),Industrials,0,$0,1,"$872,407",PH
+904,U.S. Silica Holdings Inc. (SLCA),Materials,6,"$272,069",0,$0,SLCA
+905,CNP Assurances (CNPAF),Financials,0,$0,0,$0,CNPAF
+906,Wendy's Co. (WEN),Consumer Discretionary,0,$0,5,"$11,904,969",WEN
+907,British American Tobacco plc (BTI),Consumer Goods,0,$0,0,$0,BTI
+908,Tractor Supply (TSCO),Consumer Discretionary,0,$0,20,"$33,331,495",TSCO
+909,TRI Pointe Group (TPH),Industrial Goods,0,$0,0,$0,TPH
+910,Equifax Inc. (EFX),Industrials,0,$0,2,"$1,854,044",EFX
+911,Alphabet Inc. CL C (GOOG),Technology,0,$0,47,"$428,397",GOOG
+912,Valero Energy (VLO),Energy,2,"$2,186,154",0,$0,VLO
+913,Invesco Plc (IVZ),Financials,1,"$100,356",0,$0,IVZ
+914,Fox Corporation CL B (FOX),Services,0,$0,0,$0,FOX
+915,Polo Ralph Lauren Corp. (RL),Consumer Discretionary,0,$0,0,$0,RL
+916,Jacobs Engineering Group (JEC),Industrials,0,$0,0,$0,JEC
+917,Wal-Mart Stores (WMT),Consumer Staples,0,$0,13,"$32,286,696",WMT
+918,Western Union Co. (WU),Information Technology,0,$0,1,"$22,287",WU
+919,Globe Life Inc. (GL),Financials,0,$0,0,$0,GL
+920,AutoNation Inc. (AN),Consumer Discretionary,1,"$39,940",0,$0,AN
+921,Williams-Sonoma Inc. (WSM),Consumer Discretionary,3,"$885,350",13,"$8,725,969",WSM
+922,Signet Jewelers Ltd. (SIG),Services,3,"$461,723",0,$0,SIG
+923,Greenbrier Companies (GBX),Services,1,"$1,652,000",2,"$73,197",GBX
+924,Primo Water Corp. (PRMW),Consumer Goods,1,"$1,014,804",0,$0,PRMW
+925,Allergan Plc (AGN),Health Care,0,$0,0,$0,AGN
+926,Liberty Broadband Corp. CL A (LBRDA),Technology,0,$0,45,"$42,338,629",LBRDA
+927,Linde AG (LNAGF),Materials,0,$0,0,$0,LNAGF
+928,Loma Negra Argentina (LOMA),Materials,0,$0,0,$0,LOMA
+929,Flexion Therapeutics Inc. (FLXN),Health Care,2,"$119,993",1,"$26,253",FLXN
+930,Mylan NV (MYL),Health Care,0,$0,0,$0,MYL
+931,VOXX International Corp. (VOXX),Consumer Discretionary,44,"$5,071,069",0,$0,VOXX
+932,Sony Corp. (SNE),Consumer Goods,0,$0,0,$0,SNE
+933,Gentex Corp. (GNTX),Consumer Discretionary,5,"$58,148",4,"$517,950",GNTX
+934,Pfizer Inc. (PFE),Health Care,0,$0,13,"$7,145,859",PFE
+935,Conagra Brands Inc. (CAG),Consumer Staples,0,$0,5,"$33,638,612",CAG
+936,Livent Corp. (LTHM),Materials,0,$0,0,$0,LTHM
+937,Schnitzer Steel Industries Inc. (SCHN),Materials,0,$0,0,$0,SCHN
+938,Apple Inc. (AAPL),Information Technology,0,$0,23,"$24,750,309",AAPL
+939,Agilent Technologies (A),Information Technology,0,$0,7,"$5,618,084",A
+940,Seritage Growth Properties (SRG),Financials,0,$0,0,$0,SRG
+941,Apache Corp. (APA),Energy,1,"$187,572",0,$0,APA
+942,Carvana Co. (CVNA),Services,2,"$43,000,020",1,"$29,410,000",CVNA
+943,Assured Guaranty Ltd. (AGO),Financials,50,"$7,519,911",0,$0,AGO
+944,Lear Corp. (LEA),Consumer Discretionary,0,$0,1,"$205,500",LEA
+945,Alnylam Pharmaceuticals (ALNY),Health Care,0,$0,8,"$21,377,990",ALNY
+946,Delek US Holdings Inc.  (DK),Materials,2,"$11,821,848",0,$0,DK
+947,Tailored Brands (TLRD),Services,0,$0,0,$0,TLRD
+948,Forescout Technologies Inc. (FSCT),Financials,0,$0,10,"$908,626",FSCT
+949,Procter & Gamble (PG),Consumer Staples,0,$0,20,"$2,380,014,376",PG
+950,Ironwood Pharmaceuticals Inc. (IRWD),Health Care,0,$0,7,"$282,367",IRWD
+951,Kellogg Co. (K),Consumer Staples,0,$0,6,"$37,467,430",K
+952,Hillenbrand Inc. (HI),Services,9,"$521,428",0,$0,HI
+953,1Life Healthcare Inc. (ONEM),Health Care,0,$0,0,$0,ONEM
+954,Denny's Corp. (DENN),Services,0,$0,1,"$78,617",DENN
+955,Positive Physicians Holdings (PPHI),Financials,0,$0,0,$0,PPHI
+956,Jack in the Box (JBX),Consumer Discretionary,0,$0,0,$0,JBX
+957,Axis Capital Holdings Ltd. (AXS),Financials,8,"$20,499,377",0,$0,AXS
+958,Littelfuse Inc. (LFUS),Information Technology,0,$0,6,"$2,711,182",LFUS
+959,Deckers Outdoor (DECK),Consumer Discretionary,0,$0,3,"$800,566",DECK
+960,Gulf Coast Ultra Deep Royalty Trust (GULTU),Energy,0,$0,0,$0,GULTU
+961,Tyler Technologies Inc. (TYL),Technology,0,$0,29,"$109,964,468",TYL
+962,CK Hutchison Hldgs Ltd. (CKHUY),Financials,0,$0,0,$0,CKHUY
+963,Fastenal (FAST),Industrials,2,"$53,646",18,"$7,408,169",FAST
+964,HCA Healthcare Inc. (HCA),Health Care,0,$0,3,"$2,426,654",HCA
+965,Childrens Place Inc. (PLCE),Consumer Discretionary,4,"$676,258",0,$0,PLCE
+966,Mr. Cooper Group Inc. (COOP),Financials,2,"$613,946",0,$0,COOP
+967,Astellas Pharma Inc. (ALPMY),Health Care,0,$0,0,$0,ALPMY
+968,Middleby Corp. (MIDD),Industrial Goods,14,"$2,346,705",0,$0,MIDD
+969,Alkermes plc (ALKS),Health Care,0,$0,13,"$6,125,961",ALKS
+970,Intel Corp. (INTC),Information Technology,0,$0,7,"$5,876,126",INTC
+971,Bollore (BOIVF),Services,0,$0,0,$0,BOIVF
+972,Bed Bath & Beyond (BBBY),Consumer Discretionary,0,$0,0,$0,BBBY
+973,Samsung C&T Corp. (028260.KS),Industrials,0,$0,0,$0,028260.KS
+974,Exelon Corp. (EXC),Utilities,0,$0,0,$0,EXC
+975,AngioDynamics Inc. (ANGO),Health Care,0,$0,0,$0,ANGO
+976,PennyMac Mortgage Investment Trust (PMT),Financials,54,"$1,289,684",1,"$10,704",PMT
+977,Booking Holdings Inc. (BKNG),Technology,0,$0,0,$0,BKNG
+978,BGC Partners Inc. (BGCP),Financials,0,$0,0,$0,BGCP
+979,XPO Logistics (XPO),Services,1,"$100,695",6,"$124,142,381",XPO
+980,Prologis Inc. (PLD),Financials,0,$0,2,"$1,218,512",PLD
+981,Xylem Inc. (XYL),Industrial Goods,0,$0,5,"$1,746,601",XYL
+982,Edwards Lifesciences Corp. (EW),Health Care,0,$0,52,"$25,371,124",EW
+983,Boston Scientific (BSX),Health Care,0,$0,4,"$776,834",BSX
+984,Descartes Systems Group (DSGX),Technology,0,$0,0,$0,DSGX
+985,Citizens Financial Group Inc. (CFG),Financials,8,"$847,976",1,"$99,945",CFG
+986,Ashland Global Holdings Inc. (ASH),Materials,0,$0,0,$0,ASH
+987,Associated Banc-Corp. (ASB),Financials,4,"$210,756",0,$0,ASB
+988,nVent Electric plc (NVT),Technology,2,"$139,208",0,$0,NVT
+989,Brookfield Asset Management Inc. (BAM),Financials,0,$0,0,$0,BAM
+990,Pernod Ricard (PDRDF),Consumer Goods,0,$0,0,$0,PDRDF
+991,Gray Television Inc. (GTN),Consumer Discretionary,1,"$71,950",1,"$57,918",GTN
+992,Navient Corp. (NAVI),Financials,3,"$114,129",0,$0,NAVI
+993,Brenntag AG (BNTGF),Materials,0,$0,0,$0,BNTGF
+994,Translate Bio Inc. (TBIO),Health Care,0,$0,5,"$5,028,722",TBIO
+995,ConocoPhillips (COP),Energy,1,"$98,472",0,$0,COP
+996,Lindt & Spruengli AG (COCXF),Consumer Goods,0,$0,0,$0,COCXF
+997,ADT Inc. (ADT),Services,0,$0,0,$0,ADT
+998,CNX Resources Corp. (CNX),Energy,0,$0,0,$0,CNX
+999,Lam Research (LRCX),Information Technology,0,$0,2,"$7,805,700",LRCX
+1000,HubSpot Inc. (HUBS),Technology,2,"$4,976,914",23,"$5,372,105",HUBS
+1001,Penn Virginia (PVA),Energy,0,$0,0,$0,PVA
+1002,Pure Storage Inc. (PSTG),Technology,0,$0,2,"$252,958",PSTG
+1003,Gilead Sciences (GILD),Health Care,0,$0,12,"$3,931,234",GILD
+1004,Illinois Tool Works (ITW),Industrials,2,"$1,248,770",0,$0,ITW
+1005,Babcock International Group PLC (BCKIF),Industrials,0,$0,0,$0,BCKIF
+1006,Wright Investors' Service Hldgs (WISH),Financials,0,$0,0,$0,WISH
+1007,Las Vegas Sands Corp. (LVS),Services,0,$0,0,$0,LVS
+1008,Analog Devices (ADI),Information Technology,1,"$230,000",5,"$1,632,468",ADI
+1009,BioMarin Pharmaceutical Inc. (BMRN),Health Care,0,$0,18,"$14,041,063",BMRN
+1010,NOW Inc. (DNOW),Industrials,0,$0,0,$0,DNOW
+1011,Ollie's Bargain Outlet Hldgs (OLLI),Services,0,$0,7,"$4,616,837",OLLI
+1012,Intuit Inc. (INTU),Information Technology,0,$0,9,"$5,265,754",INTU
+1013,Ross Stores (ROST),Consumer Discretionary,0,$0,0,$0,ROST
+1014,Ryanair Holdings PLC (RYAAY),Services,0,$0,0,$0,RYAAY
+1015,Cimpress N.V. (CMPR),Services,0,$0,0,$0,CMPR
+1016,Huntsman Corp. (HUN),Materials,13,"$424,022",0,$0,HUN
+1017,Cenovus Energy Inc. (CVE),Materials,0,$0,0,$0,CVE
+1018,"Plains GP Holdings, LP (PAGP)",Materials,9,"$1,439,533",0,$0,PAGP
+1019,Switch Inc. (SWCH),Technology,0,$0,41,"$32,807,413",SWCH
+1020,Utilities Select Sector SPDR (XLU),Utilities,0,$0,0,$0,XLU
+1021,Melrose Industries PLC (MLSPF),Industrials,0,$0,0,$0,MLSPF
+1022,Cadence Design Systems (CDNS),Information Technology,0,$0,20,"$27,510,350",CDNS
+1023,Bank of America Corp. (BAC),Financials,0,$0,0,$0,BAC
+1024,Genpact Ltd. (G),Industrials,2,"$234,427",1,"$1,118,358",G
+1025,Sodexo SA (SDXOF),Industrials,0,$0,0,$0,SDXOF
+1026,Investors Bancorp Inc. (ISBC),Financials,0,$0,0,$0,ISBC
+1027,Tesla Motors (TSLA),Consumer Goods,0,$0,11,"$14,992,249",TSLA
+1028,QUALCOMM Inc. (QCOM),Information Technology,0,$0,1,"$130,808",QCOM
+1029,Vulcan Materials (VMC),Materials,1,"$465,000",0,$0,VMC
+1030,LG Corp. (003550.KS),Technology,0,$0,0,$0,003550.KS
+1031,MSG Networks Inc. (MSGN),Services,0,$0,7,"$822,996",MSGN
+1032,Liberty Global Inc. (LBTYA),Services,0,$0,0,$0,LBTYA
+1033,Gorman-Rupp Co. (GRC),Industrial Goods,0,$0,0,$0,GRC
+1034,Zebra Technologies Corp. (ZBRA),Information Technology,0,$0,25,"$17,205,973",ZBRA
+1035,Roku Inc. (ROKU),Technology,0,$0,68,"$21,837,859",ROKU
+1036,Five Point Holdings LLC (FPH),Real Estate,90,"$24,969,716",0,$0,FPH
+1037,Papa John's International (PZZA),Consumer Discretionary,0,$0,1,"$116,540",PZZA
+1038,Teledyne Technologies (TDY),Industrials,0,$0,35,"$30,906,802",TDY
+1039,Ferguson plc (WOSCF),Industrial Goods,0,$0,0,$0,WOSCF
+1040,Proto Labs Inc. (PRLB),Industrial Goods,0,$0,4,"$1,257,796",PRLB
+1041,Annaly Capital Management Inc. (NLY),Financials,5,"$2,289,719",0,$0,NLY
+1042,Brigham Minerals Inc. (MNRL),Energy,7,"$371,500",0,$0,MNRL
+1043,Ruth's Hospitality Group Inc. (RUTH),Consumer Discretionary,0,$0,0,$0,RUTH
+1044,StoneCo Ltd. (STNE),Technology,0,$0,0,$0,STNE
+1045,Acacia Communications (ACIA),Technology,0,$0,17,"$3,802,028",ACIA
+1046,Meridian Corp. (MRBK),Financials,21,"$338,472",0,$0,MRBK
+1047,Activision Blizzard Inc. (ATVI),Information Technology,3,"$63,906",5,"$37,776,672",ATVI
+1048,Peloton Interactive Inc. (PTON),Consumer Cyclical,2,"$6,556,810",24,"$328,364,249",PTON
+1049,GlaxoSmithKline PLC (GSK),Health Care,0,$0,0,$0,GSK
+1050,GCI Liberty Inc. (GLIBA),Services,0,$0,13,"$9,681,279",GLIBA
+1051,Dana Inc. (DAN),Consumer Goods,0,$0,0,$0,DAN
+1052,Altisource Residential Corp. (RESI),Financials,16,"$9,341,542",0,$0,RESI
+1053,Hengan International Group Co Ltd. (HEGIF),Consumer Staples,0,$0,0,$0,HEGIF
+1054,The Bancorp Inc. (TBBK),Financials,4,"$185,549",0,$0,TBBK
+1055,Helmerich & Payne (HP),Energy,1,"$202,100",0,$0,HP
+1056,Berkshire Hathaway CL B (BRK.B),Financials,1,"$173,300",0,$0,BRK.B
+1057,PetMed Express (PETS),Consumer Discretionary,0,$0,7,"$1,999,610",PETS
+1058,Seaboard Corp. (SEB),Consumer Goods,0,$0,0,$0,SEB
+1059,American Homes 4 Rent (AMH),Financials,27,"$48,145,664",5,"$725,665",AMH
+1060,Dollar General (DG),Consumer Discretionary,0,$0,10,"$56,398,848",DG
+1061,Consolidated Tomoka Land Co. (CTO),Financials,6,"$70,770",0,$0,CTO
+1062,Brown-Forman Corp. (BF.B),Consumer Staples,0,$0,0,$0,BF.B
+1063,Charles River Labs (CRL),Health Care,0,$0,15,"$9,733,163",CRL
+1064,Avangrid Inc. (AGR),Utilities,2,"$19,460",0,$0,AGR
+1065,The Blackstone Group (BX),Financials,0,$0,2,"$3,183,391",BX
+1066,Chubb Limited (CB),Financials,3,"$1,430,940",0,$0,CB
+1067,Smith (A.O.) (AOS),Industrials,0,$0,3,"$7,113,418",AOS
+1068,Freeport-McMoran Inc. (FCX),Materials,2,"$3,358,326",0,$0,FCX
+1069,Cars.com Inc. (CARS),Services,3,"$171,254",0,$0,CARS
+1070,Eli Lilly & Co. (LLY),Health Care,0,$0,32,"$199,801,515",LLY
+1071,Enviva Partners LP (EVA),Industrial Goods,0,$0,0,$0,EVA
+1072,Boston Beer Company (SAM),Consumer Goods,0,$0,153,"$68,063,959",SAM
+1073,DaVita HealthCare Partners (DVA),Health Care,0,$0,8,"$11,057,545",DVA
+1074,Biogen Inc. (BIIB),Health Care,0,$0,2,"$718,573",BIIB
+1075,Dell Technologies Inc Class C (DELL),Technology,13,"$26,253,714",13,"$20,679,783",DELL
+1076,New Oriental Education & Technology (EDU),Services,0,$0,0,$0,EDU
+1077,Voya Financial Inc. (VOYA),Financials,0,$0,0,$0,VOYA
+1078,Tejon Ranch Co. (TRC),Financials,1,"$21,647",0,$0,TRC
+1079,Acuity Brands Inc. (AYI),Industrials,0,$0,0,$0,AYI
+1080,Home Depot (HD),Consumer Discretionary,1,"$1,000,151",9,"$34,180,671",HD
+1081,Jardine Strategic Holdings (JDSHF),Financials,0,$0,0,$0,JDSHF
+1082,TJX Companies Inc. (TJX),Consumer Discretionary,1,"$160,432",3,"$5,123,056",TJX
+1083,Investors Title Co. (ITIC),Financials,0,$0,0,$0,ITIC
+1084,BROWN FORMAN Inc. A (BF.A),Consumer Staples,0,$0,0,$0,BF.A
+1085,UGI Corp. (UGI),Utilities,2,"$268,868",0,$0,UGI
+1086,Stryker Corp. (SYK),Health Care,1,"$9,694",9,"$4,029,281",SYK
+1087,Donaldson Co. (DCI),Industrials,0,$0,3,"$440,237",DCI
+1088,ProShares UltraPro S&P500 (UPRO),NA,0,$0,0,$0,UPRO
+1089,Hill Rom Holdings Inc. (HRC),Health Care,0,$0,3,"$350,790",HRC
+1090,Navistar International Corp. (NAV),Consumer Goods,0,$0,0,$0,NAV
+1091,Northern Trust Corp. (NTRS),Financials,0,$0,3,"$1,174,449",NTRS
+1092,Applied Materials (AMAT),Information Technology,0,$0,0,$0,AMAT
+1093,Far Point Acquisition Corp. (FPAC),Financials,0,$0,1,"$32,571,726",FPAC
+1094,Team Inc. (TISI),Services,1,"$95,940",0,$0,TISI
+1095,WABCO Holdings Inc. (WBC),Consumer Goods,0,$0,0,$0,WBC
+1096,Sally Beauty Holdings (SBH),Services,8,"$184,641",1,"$48,033",SBH
+1097,Roper Industries (ROP),Industrials,0,$0,8,"$7,599,301",ROP
+1098,Green Brick Partners (GRBK),Financials,6,"$205,503",0,$0,GRBK
+1099,Credit Acceptance Corp. (CACC),Financials,4,"$1,107,920",40,"$74,253,793",CACC
+1100,RTI Surgical Holdings Inc. (RTIX),Health Care,0,$0,0,$0,RTIX
+1101,Westlake Chemical Corp. (WLK),Materials,38,"$50,124,919",0,$0,WLK
+1102,NexPoint Residential Trust (NXRT),Financials,4,"$7,433,390",31,"$46,610,898",NXRT
+1103,American Vanguard Corp. (AVD),Materials,1,"$26,140",0,$0,AVD
+1104,Zimmer Biomet Holdings (ZBH),Health Care,1,"$113,000",1,"$376,130",ZBH
+1105,LA-Z Boy Chair (LZB),Consumer Discretionary,0,$0,0,$0,LZB
+1106,BlackRock Inc. (BLK),Financials,0,$0,18,"$14,274,172,511",BLK
+1107,Orange County Bancorp Inc. (OCBI),Financials,0,$0,0,$0,OCBI
+1108,Physicians Realty Trust (DOC),Financials,2,"$149,703",1,"$106,380",DOC
+1109,Goodyear Tire & Rubber (GT),Consumer Discretionary,1,"$3,690",0,$0,GT
+1110,Entercom Communications (ETM),Consumer Discretionary,20,"$3,650,556",0,$0,ETM
+1111,Vonage Holdings Corp. (VG),Technology,0,$0,2,"$2,118,848",VG
+1112,Sysco Corp. (SYY),Consumer Staples,8,"$67,639,762",0,$0,SYY
+1113,Antofagasta plc (ANFGF),Materials,0,$0,0,$0,ANFGF
+1114,Medtronic plc (MDT),Health Care,0,$0,1,"$195,440",MDT
+1115,Match Group Inc. (MTCH),Services,0,$0,10,"$9,258,432",MTCH
+1116,Guess Inc. (GES),Services,0,$0,0,$0,GES
+1117,Liberty Media Corp Formula One Series A (FWONA),Services,0,$0,1,"$260,697",FWONA
+1118,O-I Glass Inc. (OI),Consumer Goods,1,"$2,678",0,$0,OI
+1119,Total SA (TOT),Materials,0,$0,0,$0,TOT
+1120,MSCI Inc. (MSCI),Financials,0,$0,8,"$1,507,460",MSCI
+1121,The Stars Group Inc. (TSG),Services,0,$0,0,$0,TSG
+1122,S&P Global Inc. (SPGI),Consumer Discretionary,0,$0,0,$0,SPGI
+1123,Meggitt PLC (MEGGF),Industrials,0,$0,0,$0,MEGGF
+1124,Central Garden & Pet (CENTA),Consumer Staples,0,$0,0,$0,CENTA
+1125,Microsoft Corp. (MSFT),Information Technology,0,$0,2,"$6,693,611",MSFT
+1126,Canadian Pacific Railway (CP),Services,0,$0,0,$0,CP
+1127,Cognizant Technology Solutions (CTSH),Information Technology,0,$0,8,"$496,360",CTSH
+1128,Gulfport Energy Corp. (GPOR),Materials,1,"$14,822",0,$0,GPOR
+1129,Crocs Inc. (CROX),Consumer Discretionary,4,"$525,589",4,"$3,322,653",CROX
+1130,Berry Petroleum Corp. (BRY),Energy,0,$0,0,$0,BRY
+1131,Compass Minerals International Inc. (CMP),Materials,1,"$98,750",0,$0,CMP
+1132,Mercadolibre Inc. (MELI),Services,15,"$3,065,433",0,$0,MELI
+1133,HERC Holdings Inc. (HRI),Services,4,"$224,489",0,$0,HRI
+1134,CIBL Inc. (CIBY),Technology,0,$0,0,$0,CIBY
+1135,Pargesa Holding SA (PRGAF),Services,0,$0,0,$0,PRGAF
+1136,Stock Yards Bancorp Inc. (SYBT),Financials,17,"$390,313",2,"$235,728",SYBT
+1137,DXC Technology Co. (DXC),Technology,0,$0,0,$0,DXC
+1138,TE Connectivity (TEL),Technology,1,"$14,537",0,$0,TEL
+1139,Morgan Stanley (MS),Financials,1,"$734,871",1,"$737,319",MS
+1140,Equinor ASA (EQNR),Energy,0,$0,0,$0,EQNR
+1141,Timken Co. (TKR),Industrials,0,$0,0,$0,TKR
+1142,Far Point Acquisition Corp. Unit (FPAC.UN),Financials,0,$0,0,$0,FPAC.UN
+1143,Rolls Royce Holdings plc (RYCEF),Industrial Goods,0,$0,0,$0,RYCEF
+1144,Verra Mobility Corp. (VRRM),Industrials,4,"$297,062",0,$0,VRRM
+1145,Nam Tai Property Inc. (NTP),Technology,0,$0,0,$0,NTP
+1146,Peapack-Gladstone Financial Corp. (PGC),Financials,9,"$292,393",0,$0,PGC
+1147,Caesars Entertainment (CZR),Services,0,$0,0,$0,CZR
+1148,Transportadora de Gas Del Sur SA (TGS),Utilities,0,$0,0,$0,TGS
+1149,Molson Coors Beverage Co. (TAP),Consumer Staples,0,$0,0,$0,TAP
+1150,Chaparral Steel Co. (CHAP),Materials,0,$0,0,$0,CHAP
+1151,Unilever NV (UN),Consumer Goods,0,$0,0,$0,UN
+1152,Outfront Media Inc. (OUT),Services,0,$0,0,$0,OUT
+1153,Crescent Capital BDC Inc. (CCAP),Financials,0,$0,0,$0,CCAP
+1154,The Madison Square Garden Co. (MSG),Services,0,$0,0,$0,MSG
+1155,Old Republic International (ORI),Financials,16,"$346,932",0,$0,ORI
+1156,Groupe Bruxelles Lambert S.A. (GBLBF),Financials,0,$0,0,$0,GBLBF
+1157,Howard Hughes Corp. (HHC),Financials,8,"$501,164,227",2,"$102,789,784",HHC
+1158,Capri Holdings Ltd (CPRI),Services,0,$0,0,$0,CPRI
+1159,Granite Real Estate Inv. Trust (GRP.UN),Real Estate,0,$0,0,$0,GRP.UN
+1160,Chemours Co. (CC),Materials,3,"$140,698",0,$0,CC
+1161,Six Flags Inc. (SIX),Services,1,"$24,144",0,$0,SIX
+1162,Orchard Therapeutics plc (ORTX),Health Care,0,$0,0,$0,ORTX
+1163,Qorvo Inc. (QRVO),Technology,0,$0,23,"$15,534,115",QRVO
+1164,Monster Beverage Corp. (MNST),Consumer Goods,0,$0,7,"$26,092,463",MNST
+1165,SunOpta Inc. (STKL),Consumer Goods,9,"$3,822,010",0,$0,STKL
+1166,Adobe Inc. (ADBE),Information Technology,0,$0,9,"$17,393,344",ADBE
+1167,Williams Cos. (WMB),Energy,8,"$1,114,922",0,$0,WMB
+1168,MagnaChip Semiconductor Corp. (MX),Technology,1,"$110,500",0,$0,MX
+1169,Sanofi Aventis (SNY),Health Care,0,$0,0,$0,SNY
+1170,Brighthouse Financial Inc. (BHF),Financials,8,"$1,125,502",0,$0,BHF
+1171,Waitr Holdings Inc. (WTRH),Consumer Cyclical,0,$0,4,"$584,997",WTRH
+1172,DENTSPLY International Inc. (XRAY),Health Care,0,$0,3,"$949,248",XRAY
+1173,Baxter International Inc. (BAX),Health Care,1,"$803,818",8,"$5,534,349",BAX
+1174,Eaton Corp. (ETN),Industrials,3,"$483,796",11,"$3,947,316",ETN
+1175,ICF International Inc. (ICFI),Industrials,3,"$220,999",5,"$992,414",ICFI
+1176,Nordstrom (JWN),Consumer Discretionary,0,$0,2,"$842,708",JWN
+1177,Banc of California Inc. (BANC),Financials,1,"$250,211",0,$0,BANC
+1178,Mondelez International (MDLZ),Consumer Staples,1,"$101,040",0,$0,MDLZ
+1179,Huntington Ingalls Industries (HII),Industrial Goods,5,"$902,604",4,"$1,289,565",HII
+1180,Ameren Corp. (AEE),Utilities,0,$0,3,"$780,500",AEE
+1181,MGIC Investment (MTG),Financials,1,"$35,464",0,$0,MTG
+1182,Garrett Motion Inc. (GTX),Consumer Goods,0,$0,0,$0,GTX
+1183,Autodesk Inc. (ADSK),Information Technology,0,$0,5,"$3,982,510",ADSK
+1184,Acadia Healthcare Co. (ACHC),Health Care,0,$0,0,$0,ACHC
+1185,AMERCO (UHAL),Services,46,"$16,257,759",0,$0,UHAL
+1186,Broadcom Inc. (AVGO),Technology,0,$0,48,"$35,605,303",AVGO
+1187,Mimecast Ltd (MIME),Technology,0,$0,10,"$5,405,592",MIME
+1188,First Midwest Bancorp (FMBI),Financials,1,"$100,685",0,$0,FMBI
+1189,Comcast Corp. (CMCSA),Consumer Discretionary,0,$0,7,"$8,212,930",CMCSA
+1190,Graham Holdings Co. (GHC),Consumer Discretionary,3,"$517,281",0,$0,GHC
+1191,VMware Inc. (VMW),Technology,0,$0,21,"$24,171,148",VMW
+1192,National Western Life Insurance (NWLI),Financials,0,$0,0,$0,NWLI
+1193,Perspecta Inc. (PRSP),Technology,4,"$312,938",0,$0,PRSP
+1194,PG&E Corp. (PCG),Utilities,0,$0,0,$0,PCG
+1195,Sirius XM Holdings Inc. (SIRI),Services,0,$0,1,"$474,261",SIRI
+1196,Turtle Beach Corp. (HEAR),Technology,3,"$112,529",0,$0,HEAR
+1197,Ford Motor (F),Consumer Discretionary,3,"$1,104,611",0,$0,F
+1198,Alleghany Corp. (Y),Financials,0,$0,0,$0,Y
+1199,Cloudera Inc. (CLDR),Technology,1,"$4,998,704",10,"$22,800,866",CLDR
+1200,Falcon Minerals Corp. (FLMN),Energy,3,"$143,196",0,$0,FLMN
+1201,Anheuser-Busch InBev (BUD),Consumer Staples,0,$0,0,$0,BUD
+1202,Spectrum Brands Holdings Inc. (SPB),Consumer Staples,0,$0,0,$0,SPB
+1203,Pioneer Natural Resources (PXD),Energy,2,"$102,907",0,$0,PXD
+1204,Hanesbrands Inc. (HBI),Consumer Discretionary,0,$0,0,$0,HBI
+1205,Bunge Ltd. (BG),Consumer Goods,14,"$6,451,613",0,$0,BG
+1206,Lithia Motors Inc. A (LAD),Consumer Discretionary,0,$0,1,"$10,026",LAD
+1207,Caleres Inc. (CAL),Consumer Discretionary,4,"$28,343",0,$0,CAL
+1208,Hormel Foods Corp. (HRL),Consumer Staples,0,$0,10,"$9,356,175",HRL
+1209,Bausch Health (BHC),Health Care,17,"$83,575,268",0,$0,BHC
+1210,SEI Investments (SEIC),Financials,0,$0,0,$0,SEIC
+1211,Exxon Mobil Corp. (XOM),Energy,4,"$2,507,179",0,$0,XOM
+1212,Dish Network Corp. (DISH),Consumer Goods,0,$0,2,"$485,370",DISH
+1213,SmileDirectClub Inc. (SDC),Health Care,1,"$37,439",1,"$100,400",SDC
+1214,Extraction Oil & Gas LLC (XOG),Materials,0,$0,0,$0,XOG
+1215,Jefferies Financial Group Inc. (JEF),Financials,0,$0,0,$0,JEF
+1216,Agnico-Eagle Mines Ltd. (AEM),Materials,0,$0,0,$0,AEM
+1217,Ra Pharmaceuticals Inc. (RARX),Health Care,0,$0,2,"$579,765",RARX
+1218,Highland Income Fund (HFRO),Financials,0,$0,0,$0,HFRO
+1219,New Senior Investment Group (SNR),Financials,5,"$1,161,927",0,$0,SNR
+1220,SS&C Technologies Holdings Inc. (SSNC),Technology,2,"$69,061",2,"$9,877,475",SSNC
+1221,Citigroup Inc. (C),Financials,0,$0,0,$0,C
+1222,Magna International Inc. (MGA),Consumer Goods,0,$0,0,$0,MGA
+1223,Cognex Corp. (CGNX),Information Technology,0,$0,2,"$2,677,573",CGNX
+1224,American International Group (AIG),Financials,1,"$481,966",0,$0,AIG
+1225,Stewart Information Services (STC),Financials,10,"$925,250",9,"$3,949,602",STC
+1226,Logitech International SA (LOGI),Technology,0,$0,14,"$33,978,082",LOGI
+1227,Comfort Systems USA Inc. (FIX),Industrials,3,"$442,980",1,"$64,022",FIX
+1228,Public Storage (PSA),Financials,0,$0,2,"$1,258,669",PSA
+1229,Helen of Troy Ltd. (HELE),Consumer Goods,0,$0,6,"$1,043,416",HELE
+1230,U.S. Bancorp (USB),Financials,0,$0,3,"$16,313,673",USB
+1231,Vistra Energy Corp. (VST),Utilities,9,"$1,706,824",7,"$387,359",VST
+1232,Aramark (ARMK),Services,6,"$2,073,046",5,"$553,921,757",ARMK
+1233,Vanguard S&P 500 ETF (VOO),,0,$0,0,$0,VOO
+1234,Wells Fargo (WFC),Financials,2,"$5,553,970",0,$0,WFC
+1235,Canada Goose Holdings Inc. (GOOS),Consumer Cyclical,0,$0,0,$0,GOOS
+1236,Oaktree Specialty Lending Corp (OCSL),Financials,5,"$195,896",0,$0,OCSL
+1237,Chimera Investment Corp. (CIM),Financials,0,$0,0,$0,CIM
+1238,Sterling Bancorp (STL),Financials,16,"$431,861",1,"$213,500",STL
+1239,Kaiser Aluminum Corp. (KALU),Materials,0,$0,5,"$657,509",KALU
+1240,Pernod-Ricard SA (PDRDY),Consumer Goods,0,$0,0,$0,PDRDY
+1241,C.H. Robinson Worldwide (CHRW),Industrials,0,$0,6,"$16,183,612",CHRW
+1242,Osisko Gold Royalties Ltd (OR),Materials,0,$0,0,$0,OR
+1243,Monmouth Real Estate Investment Corp. (MNR),Real Estate,19,"$578,429",4,"$187,780",MNR
+1244,Lee Enterprises (LEE),Consumer Discretionary,0,$0,0,$0,LEE
+1245,"Primerica, Inc. (PRI)",Financials,0,$0,3,"$870,593",PRI
+1246,Lennar Corp. CL B (LEN.B),Industrial Goods,0,$0,0,$0,LEN.B
+1247,Noble Energy Inc. (NBL),Energy,5,"$366,537",0,$0,NBL
+1248,Choice Hotels Int. Inc. (CHH),Services,0,$0,2,$0,CHH
+1249,Harley-Davidson (HOG),Consumer Discretionary,3,"$3,332,867",0,$0,HOG
+1250,JBG Smith Properties (GBGS),Financials,0,$0,0,$0,GBGS
+1251,BlackBerry Ltd. (BB),Technology,2,"$70,300",2,"$9,283",BB
+1252,Raytheon Co. (RTN),Industrials,0,$0,6,"$191,726",RTN
+1253,HollyFrontier Corp. (HFC),Materials,2,"$414,900",0,$0,HFC
+1254,Perrigo Co. (PRGO),Health Care,1,"$85,000",6,"$238,926",PRGO
+1255,Corteva Inc. (CTVA),Materials,4,"$484,598",0,$0,CTVA
+1256,"Altice USA, Inc. (ATUS)",Services,0,$0,15,"$225,895,644",ATUS
+1257,BRF S.A. (BRFS),Consumer Goods,0,$0,0,$0,BRFS
+1258,Packaging Corp. of America (PKG),Materials,0,$0,0,$0,PKG
+1259,AMC Networks Inc. (AMCX),Services,0,$0,0,$0,AMCX
+1260,Simon Property Group Inc. (SPG),Financials,13,"$20,875,599",0,$0,SPG
+1261,Axalta Coating Systems Ltd. (AXTA),Materials,0,$0,0,$0,AXTA
+1262,Great Western Bancorp (GWB),Financials,1,"$39,900",0,$0,GWB
+1263,Newmont Corp. (NEM),Materials,0,$0,21,"$9,496,760",NEM
+1264,LHC Group Inc. (LHCG),Health Care,0,$0,0,$0,LHCG
+1265,Franklin Resources (BEN),Financials,0,$0,1,"$94,800",BEN
+1266,Sierra Metals Inc. (SMTS),Materials,0,$0,0,$0,SMTS
+1267,IQVIA Holdings Inc. (IQV),Health Care,0,$0,2,"$27,666,136",IQV
+1268,Abbott Labs (ABT),Health Care,0,$0,9,"$20,162,814",ABT
