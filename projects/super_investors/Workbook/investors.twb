@@ -33,10 +33,10 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='maybe_some_portfolio_2020Q2' name='textscan.0lxioj70k1cedv11nwps2039rq6m'>
-            <connection class='textscan' directory='/Users/siboxu/Desktop/job/repos/data_viz/Projects/investors/Workbook' filename='maybe_some_portfolio_2020Q2.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/siboxu/Desktop/job/repos/data_viz/Projects/super_investors/Workbook' filename='maybe_some_portfolio_2020Q2.csv' password='' server='' />
           </named-connection>
           <named-connection caption='maybe_some_stock_2020Q2' name='textscan.16fpjsl0riezrh18b67zs1gwwvga'>
-            <connection class='textscan' directory='/Users/siboxu/Desktop/job/repos/data_viz/Projects/investors/Workbook' filename='maybe_some_portfolio_2020Q2.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/siboxu/Desktop/job/repos/data_viz/Projects/super_investors/Workbook' filename='maybe_some_stock_2020Q2.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <relation join='inner' type='join'>
@@ -5429,8 +5429,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='54' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='53' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='62' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='61' param='vert' type='layout-flow' w='84000' x='8000' y='8000'>
                 <zone forceUpdate='true' h='7500' id='22' type='text' w='98400' x='800' y='1000'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontsize='15'>Insights of The World Development Trend From Top Investors Portfolios (Data: 2020 Q1)</run>
@@ -5568,8 +5568,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='57' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='56' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='65' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='64' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='TopInvested' w='74200' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -5697,8 +5697,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='55' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='54' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='63' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='62' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone forceUpdate='true' h='5250' id='21' type='text' w='98400' x='800' y='1000'>
                   <formatted-text>
                     <run bold='true' underline='true'>Sector breakdowns:</run>
@@ -5813,8 +5813,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='53' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='52' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='61' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='60' param='vert' type='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='InsiderTrading' w='75700' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -5895,7 +5895,7 @@
       </viewpoint>
       <simple-id uuid='{DA58D16F-6DF2-47A3-8E80-6E7FB88EAF5D}' />
     </window>
-    <window class='worksheet' name='TopInvested'>
+    <window class='worksheet' maximized='true' name='TopInvested'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -6275,7 +6275,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='3' />
+      <active id='19' />
       <simple-id uuid='{8D7EDE4D-AA67-4F53-822F-34F192B294A9}' />
     </window>
     <window class='dashboard' name='Dashboard_3'>
@@ -6293,10 +6293,10 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='21' />
       <simple-id uuid='{A6883B84-F205-4123-B725-3D4D44AB8278}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard_4'>
+    <window class='dashboard' name='Dashboard_4'>
       <viewpoints>
         <viewpoint name='InsiderBuy'>
           <zoom type='entire-view' />
